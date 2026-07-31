@@ -14,21 +14,17 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v5 # 升级官方拉取插件到最新版
+        uses: actions/checkout@v5
 
       - name: Setup Node.js Environment
-        uses: actions/setup-node@v5 # 升级官方 Node 插件到最新版
+        uses: actions/setup-node@v5
         with:
-          node-version: '24' # 直接指定最新的 Node 24 环境
+          node-version: '24'
 
       - name: Execute Search & Healthcheck Script
         env:
           MY_GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          if [ -n "$MY_GITHUB_TOKEN" ]; then
-            sed -i "s/你的_GITHUB_TOKEN/$MY_GITHUB_TOKEN/g" search.js
-          fi
-          node search.js
+        run: node search.js
 
       - name: Save JSON & Logs to Repository
         run: |
