@@ -245,10 +245,10 @@ async function start() {
     if (check.isValid) {
       if (check.isAdult) {
         aIdx++;
-        const name = `[大人${aIdx}] 【GitHub-${ownerRepoPath}】`;
+        const name = `[资源${aIdx}] 【GitHub-${ownerRepoPath}】`;
         adultProxy.push({ name, url: check.workingCdnUrl });
         adultGithub.push({ name, url: rawUrl });
-        console.log(`🔞 [大人 - 命中"${check.keyword}"] -> ${name}`);
+        console.log(`🔞 [资源 - 命中"${check.keyword}"] -> ${name}`);
       } else {
         nIdx++;
         const name = `[自定义${nIdx}] 【GitHub-${ownerRepoPath}】`;
