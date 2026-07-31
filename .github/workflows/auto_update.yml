@@ -1,0 +1,46 @@
+name: Cloud TVBox Healthcheck & Auto Sync
+
+on:
+  schedule:
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-in-cloud:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Execute Search & Healthcheck Script
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -n "$MY_GITHUB_TOKEN" ]; then
+            sed -i "s/你的_GITHUB_TOKEN/$MY_GITHUB_TOKEN/g" search.js
+          fi
+          node search.js
+
+      - name: Save JSON & Logs to Repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add *.json run_log_*.log.txt || true
+          
+          if git diff --staged --quiet; then
+            echo "✅ 接口数据无变化，跳过提交。"
+          else
+            git commit -m "chore: 云端自动复检并更新 TVBox 接口文件 [skip ci]"
+            git push
+            echo "🎉 最新配置文件已自动保存回仓库！"
+          fi
