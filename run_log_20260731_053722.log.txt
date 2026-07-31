@@ -1,0 +1,221 @@
+🚀 开始处理 TVBox 配置文件 (多重 CDN + 自动无痕鉴权模式)...
+
+📦 历史加载：读取到历史已知接口 0 条。
+🔍 开始检索 GitHub Code Search API...
+  └─ GitHub 第 1 页检索到 100 条数据
+  └─ GitHub 第 2 页检索到 100 条数据
+
+🧹 汇总去重：最终得到【200】条候选接口，开始发起【混合探针健康复检】...
+
+[1/200] 多节点测试... ✅ [常规健康] -> [自定义1] 【GitHub-phoenix7750/iptv/5dfdd07ec5f718a418c31b8eb622aec94c0da7d5/tvbox.json】
+[2/200] 多节点测试... ✅ [常规健康] -> [自定义2] 【GitHub-Dong-learn9/TVBox-zyjk/adb3ff7df4e0465c23bdf62b2c9536de25c08db2/18.json】
+[3/200] 多节点测试... ✅ [常规健康] -> [自定义3] 【GitHub-sbday/xiaoya/b88487e66e37c6c45f7d74fdaaa265959ecaec6c/tvbox.json】
+[4/200] 多节点测试... ✅ [常规健康] -> [自定义4] 【GitHub-jessic01/box1/bb7d749d3eb60b5b5cbf83527eba65ab0db6a37f/tvbox.json】
+[5/200] 多节点测试... ✅ [常规健康] -> [自定义5] 【GitHub-ylxdy/IPTV/a12b085cfe580069830c7aa7e7394213d80e03d8/tvbox.json】
+[6/200] 多节点测试... ✅ [常规健康] -> [自定义6] 【GitHub-loveFeng/loveFeng.github.io/bfd18d0cdc571cfc7e9ca4399c2cd7516a28377f/tvbox.json】
+[7/200] 多节点测试... ✅ [常规健康] -> [自定义7] 【GitHub-talk2030/tv/3cacee7c7789641afb38b49832dca77fa703ae5c/tvbox.json】
+[8/200] 多节点测试... ✅ [常规健康] -> [自定义8] 【GitHub-duwei0997/tbox/b0000171f14b358e62370260109f54bc3e4bc383/tvbox.json】
+[9/200] 多节点测试... ✅ [常规健康] -> [自定义9] 【GitHub-Dong-learn9/TVBox-zyjk/adb3ff7df4e0465c23bdf62b2c9536de25c08db2/19.json】
+[10/200] 多节点测试... 🔞 [大人 - 命中"AV"] -> [大人1] 【GitHub-FreeDTV/FreeD/2511407b95ec434cf5d9e65f36aac63141c4a7ba/box.json】
+[11/200] 多节点测试... ✅ [常规健康] -> [自定义10] 【GitHub-heroaku/TVboxo/42edfca812780525e95a1c1c2d97d6ed664e27a4/9m.json】
+[12/200] 多节点测试... ✅ [常规健康] -> [自定义11] 【GitHub-kcjsd/TVBOXZY/1fe21df6951ac329ec80fce9e26956440992cdb9/tvbox.json】
+[13/200] 多节点测试... 🔞 [大人 - 命中"AV"] -> [大人2] 【GitHub-alantang1977/X/9ee7f16887dd21a82be52ce26839d074c9b86e4f/py.json】
+[14/200] 多节点测试... ✅ [常规健康] -> [自定义12] 【GitHub-niubihu1/tvbox-/a432316c979224b10b64ecbf90ee7836a342b3ec/1.json】
+[15/200] 多节点测试... ✅ [常规健康] -> [自定义13] 【GitHub-franksun1211/TVBOX/2e9b7668fd4ce8f5a183f64ba98ec01e07872e3d/sun.json】
+[16/200] 多节点测试... ✅ [常规健康] -> [自定义14] 【GitHub-franksun1211/TVBOX/2e9b7668fd4ce8f5a183f64ba98ec01e07872e3d/box.json】
+[17/200] 多节点测试... ✅ [常规健康] -> [自定义15] 【GitHub-xiongjian83/TvBox/d16a21043d9dd9cc3420643f2c7015b34b813e70/19.json】
+[18/200] 多节点测试... ❌ [失效剔除: 全量 CDN 代理节点超时或无法连接] -> [剔除1] 【GitHub-xiongjian83/TvBox/d16a21043d9dd9cc3420643f2c7015b34b813e70/YZ.json】
+[19/200] 多节点测试... ✅ [常规健康] -> [自定义16] 【GitHub-alantang1977/X/9ee7f16887dd21a82be52ce26839d074c9b86e4f/vox.json】
+[20/200] 多节点测试... ✅ [常规健康] -> [自定义17] 【GitHub-franksun1211/TVBOX/2e9b7668fd4ce8f5a183f64ba98ec01e07872e3d/0706.json】
+[21/200] 多节点测试... ✅ [常规健康] -> [自定义18] 【GitHub-xiongjian83/TvBox/d16a21043d9dd9cc3420643f2c7015b34b813e70/18/19.json】
+[22/200] 多节点测试... ✅ [常规健康] -> [自定义19] 【GitHub-heroaku/TVboxo/42edfca812780525e95a1c1c2d97d6ed664e27a4/apic.json】
+[23/200] 多节点测试... ✅ [常规健康] -> [自定义20] 【GitHub-heroaku/TVboxo/42edfca812780525e95a1c1c2d97d6ed664e27a4/apit.json】
+[24/200] 多节点测试... ✅ [常规健康] -> [自定义21] 【GitHub-franksun1211/TVBOX/2e9b7668fd4ce8f5a183f64ba98ec01e07872e3d/2K24.json】
+[25/200] 多节点测试... ✅ [常规健康] -> [自定义22] 【GitHub-xiongjian83/TvBox/d16a21043d9dd9cc3420643f2c7015b34b813e70/X.json】
+[26/200] 多节点测试... ✅ [常规健康] -> [自定义23] 【GitHub-shichuanenhui/TvBox/244c9d86055f93ad73cd8590030932f0c5f79e0e/fty.json】
+[27/200] 多节点测试... ✅ [常规健康] -> [自定义24] 【GitHub-niubihu1/tvbox-/a432316c979224b10b64ecbf90ee7836a342b3ec/2.json】
+[28/200] 多节点测试... ✅ [常规健康] -> [自定义25] 【GitHub-Henrytuan/tvbox/72894eca97dbc88d0c4a9bd3eb098d1fc75a0757/tvbox.json】
+[29/200] 多节点测试... ✅ [常规健康] -> [自定义26] 【GitHub-zhuxinfu88/tvlist/a51850cdcdee786fcc64b423191d8a523cf90c59/jar/0.json】
+[30/200] 多节点测试... 🔞 [大人 - 命中"三级"] -> [大人3] 【GitHub-bluefriendCN/set/a901e6592b8687c3ff2a38ca10e68957f8773d2c/ma.json】
+[31/200] 多节点测试... ✅ [常规健康] -> [自定义27] 【GitHub-15978929868/aikanIPTV/b3b9afdc5dafdc28d6b8d30808a2ef948f787da6/tvbox.json】
+[32/200] 多节点测试... ✅ [常规健康] -> [自定义28] 【GitHub-jigedos/geekcomputers/37b365174b6e3205dc881880c4396f2ef2e75028/630.json】
+[33/200] 多节点测试... 🔞 [大人 - 命中"强奸乱伦"] -> [大人4] 【GitHub-dlgt7/TVbox-interface/97fe47b35445f485ee6f323e46f3a78eecec2464/jj.json】
+[34/200] 多节点测试... ✅ [常规健康] -> [自定义29] 【GitHub-cysk003/Yoursmile7_TVBox/135b44c68587dfe980c8f2be996edccf63f0108b/XC.json】
+[35/200] 多节点测试... ✅ [常规健康] -> [自定义30] 【GitHub-fycszqfhd/TVBox/81ec1ca237b2ed696414e40abcfaaf5060fcd77b/tvbox1.json】
+[36/200] 多节点测试... ✅ [常规健康] -> [自定义31] 【GitHub-cymcn/myTVBox/77eca3f31b4ff026043b664b8be81ce8607205fc/XC.json】
+[37/200] 多节点测试... ✅ [常规健康] -> [自定义32] 【GitHub-tiantaiyx/tvbox/d97a57c12bc0ac189cda5acfe530394e03d80371/0706.json】
+[38/200] 多节点测试... ✅ [常规健康] -> [自定义33] 【GitHub-tiantaiyx/tvbox/d97a57c12bc0ac189cda5acfe530394e03d80371/0701.json】
+[39/200] 多节点测试... ✅ [常规健康] -> [自定义34] 【GitHub-jyoketsu/tv/935e9113f1972b5b2ee0cfa4abb974a93dc78de4/m.json】
+[40/200] 多节点测试... ✅ [常规健康] -> [自定义35] 【GitHub-yohaa0/yscang/046e0008e718d3457e4d31c198eb000ee4bf377a/XC.json】
+[41/200] 多节点测试... 🔞 [大人 - 命中"成人"] -> [大人5] 【GitHub-cnnbgo/tvbox/f2afa9065deb1c2c2341df2776abdc6b02c5913f/x.json】
+[42/200] 多节点测试... ✅ [常规健康] -> [自定义36] 【GitHub-zyscdx/tvbox/e5f6e290f664356ba6c4132f6b5fa088dacabc5d/fhvk.json】
+[43/200] 多节点测试... ✅ [常规健康] -> [自定义37] 【GitHub-1771245847/TvBox/126810736e594b505159ee29d5117d091ca85dcb/cyys.json】
+[44/200] 多节点测试... ✅ [常规健康] -> [自定义38] 【GitHub-niubihu1/tvbox-/a432316c979224b10b64ecbf90ee7836a342b3ec/3.json】
+[45/200] 多节点测试... ✅ [常规健康] -> [自定义39] 【GitHub-yueer59/Tvbox/74ee1483b67e73767fe67bf3a2d4d6502c4cafcd/api.json】
+[46/200] 多节点测试... ✅ [常规健康] -> [自定义40] 【GitHub-lmlmi/xxxx/453b2de69db1bc9a2221a9662766d7461b4f7c08/wq18.json】
+[47/200] 多节点测试... ✅ [常规健康] -> [自定义41] 【GitHub-wlcmc1972/tvbox/a51c444a576383d53803061e5ee11bb01e249c72/t2.json】
+[48/200] 多节点测试... ✅ [常规健康] -> [自定义42] 【GitHub-ne7359/tvurl/50bcb17c4694ee8700f603d73fa2033c60e9f447/js.json】
+[49/200] 多节点测试... 🔞 [大人 - 命中"强奸乱伦"] -> [大人6] 【GitHub-13998394872/TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/PF.json】
+[50/200] 多节点测试... ✅ [常规健康] -> [自定义43] 【GitHub-a736240087/tvbox/a6fe36be617e3a020bbcc629b21d1549004db0b1/2.json】
+[51/200] 多节点测试... ✅ [常规健康] -> [自定义44] 【GitHub-lmlmi/xxxx/453b2de69db1bc9a2221a9662766d7461b4f7c08/888.json】
+[52/200] 多节点测试... ✅ [常规健康] -> [自定义45] 【GitHub-habao260/zy/287cebc8a02d04faa5772b4c99a778f9d59f8110/2023.json】
+[53/200] 多节点测试... 🔞 [大人 - 命中"麻豆"] -> [大人7] 【GitHub-s14685/tv/ba297bfa6cc669ab89a55dc8c543831af1c022c4/xc.json】
+[54/200] 多节点测试... ✅ [常规健康] -> [自定义46] 【GitHub-niubihu1/tvbox-/a432316c979224b10b64ecbf90ee7836a342b3ec/368.json】
+[55/200] 多节点测试... ✅ [常规健康] -> [自定义47] 【GitHub-c120487/00/557e71b0753c5e6702023d683fa7d4fb7ab7bdd7/vip.json】
+[56/200] 多节点测试... ✅ [常规健康] -> [自定义48] 【GitHub-lmlmi/xxxx/453b2de69db1bc9a2221a9662766d7461b4f7c08/PRO.json】
+[57/200] 多节点测试... ✅ [常规健康] -> [自定义49] 【GitHub-guot55/yg/d0879e44c351c7ede52709ae4194a0c1f692855f/jsm.json】
+[58/200] 多节点测试... ✅ [常规健康] -> [自定义50] 【GitHub-lubin776/tvbox/419a1a8bec48559e66594216517a443914af3d0f/0/b.json】
+[59/200] 多节点测试... ✅ [常规健康] -> [自定义51] 【GitHub-kcjsd/TVBOXZY/1fe21df6951ac329ec80fce9e26956440992cdb9/18.json】
+[60/200] 多节点测试... ✅ [常规健康] -> [自定义52] 【GitHub-treysiz/treysiz.github.io/76b8bbaf78bf30cb28c05bbc47fa2aa9ac3185ca/NEW.json】
+[61/200] 多节点测试... 🔞 [大人 - 命中"三级"] -> [大人8] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/6/18.json】
+[62/200] 多节点测试... ✅ [常规健康] -> [自定义53] 【GitHub-ellondoa/Yoursmile7-TVBox/42a9a6b6db2d01d1f8eabf40eb525cc1aa652696/XC.json】
+[63/200] 多节点测试... 🔞 [大人 - 命中"天美"] -> [大人9] 【GitHub-13998394872/TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/PG.json】
+[64/200] 多节点测试... ✅ [常规健康] -> [自定义54] 【GitHub-swhtv/111/f3514b9b18bc0515993f37a92655f8d300c3302b/fj.json】
+[65/200] 多节点测试... ✅ [常规健康] -> [自定义55] 【GitHub-yw88075/tvbox/5df857abc263fda3c3e6cb1c285229f4d5e02230/yw.json】
+[66/200] 多节点测试... ✅ [常规健康] -> [自定义56] 【GitHub-Newtxin/tvbox/d07b4c987056fba4af1ce5ca7c139161c9b11972/015.json】
+[67/200] 多节点测试... ✅ [常规健康] -> [自定义57] 【GitHub-wxz52155/TVBOXZY3/1dead3d0078ba6864d9dc8ded5eb4b46f2570b7b/sp.json】
+[68/200] 多节点测试... ✅ [常规健康] -> [自定义58] 【GitHub-nxjonson/za/aa762e4c3ef75ea026915ad7a05853cbcc858085/XC.json】
+[69/200] 多节点测试... ✅ [常规健康] -> [自定义59] 【GitHub-jigedos/geekcomputers/37b365174b6e3205dc881880c4396f2ef2e75028/0717.json】
+[70/200] 多节点测试... ✅ [常规健康] -> [自定义60] 【GitHub-jj00780078/jj00780078.github.io/1e36ee2d98a5e8685ef202e53f7b834c9cb9ae0e/a5.json】
+[71/200] 多节点测试... ✅ [常规健康] -> [自定义61] 【GitHub-jane3824/TV/84d2da9193231bc34dda9c95780e4cb36c635e1b/fm.json】
+[72/200] 多节点测试... ✅ [常规健康] -> [自定义62] 【GitHub-phoenix7750/iptv/5dfdd07ec5f718a418c31b8eb622aec94c0da7d5/tsq.json】
+[73/200] 多节点测试... ✅ [常规健康] -> [自定义63] 【GitHub-SuperTreasure/tvbox/323f88979740aabb9b7792456cb13a9b035c0fe0/api.json】
+[74/200] 多节点测试... 🔞 [大人 - 命中"麻豆"] -> [大人10] 【GitHub-ediart/tvbox/f4f24a764639d22c40f6c5b1c72b187032fdf9a9/T4.json】
+[75/200] 多节点测试... ✅ [常规健康] -> [自定义64] 【GitHub-ncnc8388/ncnc8388.github.io/568bdd8a7e17b89d86ea38502c742d497a7b3bb8/0730.json】
+[76/200] 多节点测试... ✅ [常规健康] -> [自定义65] 【GitHub-cx342662/cx342662.github.io/a6585617e22a1135880a2cf939ab7f2a7c4b5013/ix.json】
+[77/200] 多节点测试... 🔞 [大人 - 命中"AV"] -> [大人11] 【GitHub-alantang1977/pg/968c6287a357c3229f14fc0755d4f17a1c3c596f/jsm.json】
+[78/200] 多节点测试... ✅ [常规健康] -> [自定义66] 【GitHub-cx342662/cx342662.github.io/a6585617e22a1135880a2cf939ab7f2a7c4b5013/ix3.json】
+[79/200] 多节点测试... ✅ [常规健康] -> [自定义67] 【GitHub-c120487/00/557e71b0753c5e6702023d683fa7d4fb7ab7bdd7/js0.json】
+[80/200] 多节点测试... ✅ [常规健康] -> [自定义68] 【GitHub-xiaolvdouya/zhiboyuan/01d16592653304c980987df95012fb7af6a9f7ea/N1.json】
+[81/200] 多节点测试... ✅ [常规健康] -> [自定义69] 【GitHub-hutiang/MyTvBox/e6d622a219f752db908ba06b90678536f04bcb30/1.json】
+[82/200] 多节点测试... ✅ [常规健康] -> [自定义70] 【GitHub-cc202110/33/248621fb9c5b2e4de5d976b86c5190e6c18acf81/db.json】
+[83/200] 多节点测试... ✅ [常规健康] -> [自定义71] 【GitHub-Yoursmile77/TVBox/99d8bb1a28116725329434c5f8bc83a6c558dab8/XC.json】
+[84/200] 多节点测试... 🔞 [大人 - 命中"AV"] -> [大人12] 【GitHub-Newtxin/tvbox/d07b4c987056fba4af1ce5ca7c139161c9b11972/0501.json】
+[85/200] 多节点测试... ✅ [常规健康] -> [自定义72] 【GitHub-lubin776/tvbox/419a1a8bec48559e66594216517a443914af3d0f/gx/0.json】
+[86/200] 多节点测试... ✅ [常规健康] -> [自定义73] 【GitHub-jane3824/TV/84d2da9193231bc34dda9c95780e4cb36c635e1b/ok.json】
+[87/200] 多节点测试... ✅ [常规健康] -> [自定义74] 【GitHub-guot55/yg/d0879e44c351c7ede52709ae4194a0c1f692855f/pro.json】
+[88/200] 多节点测试... ✅ [常规健康] -> [自定义75] 【GitHub-520ad/tvbox/c3b16e6d786df1d2d794ab00ed77600824dfaf49/2.json】
+[89/200] 多节点测试... ✅ [常规健康] -> [自定义76] 【GitHub-mrhuanglearn/jdk_jar/0dc4850188755a2c4fbe489e438a39031048a093/XC.json】
+[90/200] 多节点测试... ✅ [常规健康] -> [自定义77] 【GitHub-13998394872/TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/FM.json】
+[91/200] 多节点测试... ✅ [常规健康] -> [自定义78] 【GitHub-jessic01/box1/bb7d749d3eb60b5b5cbf83527eba65ab0db6a37f/xbpq.json】
+[92/200] 多节点测试... ✅ [常规健康] -> [自定义79] 【GitHub-cnnbgo/tvbox/f2afa9065deb1c2c2341df2776abdc6b02c5913f/zh/x.json】
+[93/200] 多节点测试... ✅ [常规健康] -> [自定义80] 【GitHub-chh818/chh818.github.io/fdcacc68a07da826692590b6aab21bd31076e84d/7.json】
+[94/200] 多节点测试... ✅ [常规健康] -> [自定义81] 【GitHub-smallmi18/smallmi/c764bdde2ae6e32e5a61f85b2ed6e56abbfadd67/js.json】
+[95/200] 多节点测试... ✅ [常规健康] -> [自定义82] 【GitHub-fkaf1/fk/67e232dde107b43c422fa692e415ce02a5cfcc33/XC3.json】
+[96/200] 多节点测试... ✅ [常规健康] -> [自定义83] 【GitHub-xibao999/x/c836dd27a08687548b3f5ba1061a2fc9dfa4b0d7/b.json】
+[97/200] 多节点测试... ✅ [常规健康] -> [自定义84] 【GitHub-lmlmi/xxxx/453b2de69db1bc9a2221a9662766d7461b4f7c08/vip.json】
+[98/200] 多节点测试... ✅ [常规健康] -> [自定义85] 【GitHub-xxpctv/MusicF/189fbb9a17bde2236b947ccd7a0488eabf3783f1/XC.json】
+[99/200] 多节点测试... ✅ [常规健康] -> [自定义86] 【GitHub-Newtxin/tvbox/d07b4c987056fba4af1ce5ca7c139161c9b11972/001.json】
+[100/200] 多节点测试... ✅ [常规健康] -> [自定义87] 【GitHub-swhtv/111/f3514b9b18bc0515993f37a92655f8d300c3302b/jl2.json】
+[101/200] 多节点测试... ✅ [常规健康] -> [自定义88] 【GitHub-yw88075/tvbox/5df857abc263fda3c3e6cb1c285229f4d5e02230/XYQTVBox/qiaoji/qjtvbox.json】
+[102/200] 多节点测试... ✅ [常规健康] -> [自定义89] 【GitHub-gaotianliuyun/gao/8213bb046f4dce746b5f2ddcddb13a336d0b0d60/XYQ.json】
+[103/200] 多节点测试... ✅ [常规健康] -> [自定义90] 【GitHub-hl128k/tvbox/2fa4ab220dc9eb31646043fddef2e7f6e3740cb7/tv/1/xianyuyimu_一木自用.json】
+[104/200] 多节点测试... ✅ [常规健康] -> [自定义91] 【GitHub-libinghui123/tvbox/aa8714ac8740061dcd934a31d60c5ffba50a2577/tvbox/lib/无忧ali.json】
+[105/200] 多节点测试... ✅ [常规健康] -> [自定义92] 【GitHub-asxs123/mytvboxlist/46469e2b2f78806f4684ec5edd56e5da54677c43/tvboxlist/二哈线路.json】
+[106/200] 多节点测试... ✅ [常规健康] -> [自定义93] 【GitHub-xsluck/xsluck.github.io/5be25a9486ff76f8c9a7bcec6ee018d6a815b5f8/XYQTVBox.json】
+[107/200] 多节点测试... ✅ [常规健康] -> [自定义94] 【GitHub-hkuc/tvbox-config/0c4bb6d393ea59d8c140b1389ff65280c72e6ba4/tv/2/yw88075_js.json】
+[108/200] 多节点测试... ✅ [常规健康] -> [自定义95] 【GitHub-s14685/tv/ba297bfa6cc669ab89a55dc8c543831af1c022c4/dc/ok/最新4k.json】
+[109/200] 多节点测试... ✅ [常规健康] -> [自定义96] 【GitHub-huangxinyueus/dby/d017e78c018b138b9394e668250f700430cbf119/DG/磁力/api.json】
+[110/200] 多节点测试... ✅ [常规健康] -> [自定义97] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/6/无忧.json】
+[111/200] 多节点测试... 🔞 [大人 - 命中"成人"] -> [大人13] 【GitHub-xiaoxiaoxiaodeseyixia/see1see/64e63f1fcfe6aa032345df1033318b3553448723/looklook/TVbox/adult.json】
+[112/200] 多节点测试... ✅ [常规健康] -> [自定义98] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/text/wpro00.json】
+[113/200] 多节点测试... ✅ [常规健康] -> [自定义99] 【GitHub-guot55/yg/d0879e44c351c7ede52709ae4194a0c1f692855f/pg/cs2.json】
+[114/200] 多节点测试... ✅ [常规健康] -> [自定义100] 【GitHub-piperTang/iptv-list/2d92d90f21dbed5379fd6653affbdde672861519/vbox配置/🚀多☆多┃菜妮丝线路.json】
+[115/200] 多节点测试... ✅ [常规健康] -> [自定义101] 【GitHub-tlswch/fenwe/725f18363b30a7a5f067641154597dbf13a308bf/js.json】
+[116/200] 多节点测试... ✅ [常规健康] -> [自定义102] 【GitHub-AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/无忧/lib/无忧ali.json】
+[117/200] 多节点测试... ✅ [常规健康] -> [自定义103] 【GitHub-chengxue2020/Cat-ports/2210420dfb699de241a027ce924df22a8aefe19a/TVBox/0-XiaoSa/本地仓/云盘/api.json】
+[118/200] 多节点测试... ✅ [常规健康] -> [自定义104] 【GitHub-xkwjyu/heroaku/57caec2b1fb23999838e3cfa300d4164d29dec7c/Text/tvfs1.json】
+[119/200] 多节点测试... ✅ [常规健康] -> [自定义105] 【GitHub-hstsws/zy/9861fbfb4e8e08c6b51297b644a0c431894f0870/全合集.json】
+[120/200] 多节点测试... ✅ [常规健康] -> [自定义106] 【GitHub-yumorer/TVBox_warehouse/6e5ff7913462ce457baac01027db3471561ad115/教育/api.json】
+[121/200] 多节点测试... 🔞 [大人 - 命中"欧美精品"] -> [大人14] 【GitHub-nesszby/cla/e455a31e8eab0b57db32d8c7d7e7e09ac00baf84/vip.json】
+[122/200] 多节点测试... ✅ [常规健康] -> [自定义107] 【GitHub-AlanTse1314/TVBox-18/1d88f6dc52a0de19a217d477f131cd8afd963f43/18.json】
+[123/200] 多节点测试... ✅ [常规健康] -> [自定义108] 【GitHub-zengjian03/hanbox/581daf13cdab586830f6b3872a99f81975f44ac9/630.json】
+[124/200] 多节点测试... ✅ [常规健康] -> [自定义109] 【GitHub-wxz52155/TVBOXZY3/1dead3d0078ba6864d9dc8ded5eb4b46f2570b7b/xb.json】
+[125/200] 多节点测试... ✅ [常规健康] -> [自定义110] 【GitHub-wxz52155/TVBOXZY3/1dead3d0078ba6864d9dc8ded5eb4b46f2570b7b/xp.json】
+[126/200] 多节点测试... ✅ [常规健康] -> [自定义111] 【GitHub-hkwgit2024/TVBOXZD2/2f1be5add00b6a12488b916e46c3797612543e57/box/config_20250809091800.json】
+[127/200] 多节点测试... 🔞 [大人 - 命中"少女"] -> [大人15] 【GitHub-Heiwk/YUlong/9f585b9b65362747b00d81c26a94cb0de90bbca8/ss/fm.json】
+[128/200] 多节点测试... 🔞 [大人 - 命中"AV"] -> [大人16] 【GitHub-AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/011/仅供测试.json】
+[129/200] 多节点测试... ✅ [常规健康] -> [自定义112] 【GitHub-AlanTse1314/Dong-learn9-TVBox-zyjk/a833ae2d536a600c736bf403117ad322f5fe6cbf/18.json】
+[130/200] 多节点测试... ✅ [常规健康] -> [自定义113] 【GitHub-1697366715/duankou/4c7153f5bf67beaf43c1877104d3e8ec9dd55c19/tvbox/潇洒/api.json】
+[131/200] 多节点测试... ✅ [常规健康] -> [自定义114] 【GitHub-wlcmc1972/tvbox/a51c444a576383d53803061e5ee11bb01e249c72/t1.json】
+[132/200] 多节点测试... ✅ [常规健康] -> [自定义115] 【GitHub-qcfree/tvbox804/e5f3969b256e186b604b08927b2307c445b2c249/lib/无忧TV.json】
+[133/200] 多节点测试... ✅ [常规健康] -> [自定义116] 【GitHub-lilivan1986/clash/1e524d9b4e5a284aa9cf572b5129b2631684f1f7/E8plus.json】
+[134/200] 多节点测试... ✅ [常规健康] -> [自定义117] 【GitHub-Frantz-Liu/videoInterface/92d94bebb70e25de4d00d8864c4e1cfb8ef527a3/json/240226-2.json】
+[135/200] 多节点测试... ✅ [常规健康] -> [自定义118] 【GitHub-KTogithub/TVBox/f7e0d83bffe8eb719389fd103f90b8c05440dabb/sg/摸鱼.json】
+[136/200] 多节点测试... ✅ [常规健康] -> [自定义119] 【GitHub-piperTang/iptv-list/2d92d90f21dbed5379fd6653affbdde672861519/vbox配置/🚀香雅情线路.json】
+[137/200] 多节点测试... 🔞 [大人 - 命中"欧美精品"] -> [大人17] 【GitHub-lyqnihao/m3u8/c9b1b2562342ce1e16494b719a2c7aa632c4dc2b/FGBLH/FG/海豚影视.json】
+[138/200] 多节点测试... ✅ [常规健康] -> [自定义120] 【GitHub-chxxyz2004/kds/69219466975053dc62292f7c828ef2e359612cf0/jar/0.json】
+[139/200] 多节点测试... ✅ [常规健康] -> [自定义121] 【GitHub-21ca/21ca.github.io/4cee7247f382bd03d419b48124e065be8e7bc7e0/xd/qiaoji/qiaoji.json】
+[140/200] 多节点测试... ✅ [常规健康] -> [自定义122] 【GitHub-Journey4U/sgdc/e1159f1e8c956590191a20fb2715ef659ddd1ac0/PizazzGY/PizazzGY.json】
+[141/200] 多节点测试... ✅ [常规健康] -> [自定义123] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/DY1/PRO (1).json】
+[142/200] 多节点测试... ✅ [常规健康] -> [自定义124] 【GitHub-piperTang/iptv-list/2d92d90f21dbed5379fd6653affbdde672861519/vbox配置/🚀多☆多┃道长线路.json】
+[143/200] 多节点测试... ✅ [常规健康] -> [自定义125] 【GitHub-aliluya1977/PizazzGYTVBox/4a12bdb2096f5bb33cfa27d7b6310ebfc2916413/api.json】
+[144/200] 多节点测试... ✅ [常规健康] -> [自定义126] 【GitHub-myfriendqaz/ysctvbox/e570c7e5096bafd1204a59cc9a6972bf2a696e9e/香雅情 xyqonlinerule-main/xyqonlinerule-main/XYQTVBox.json】
+[145/200] 多节点测试... ✅ [常规健康] -> [自定义127] 【GitHub-hainanpc/TVB/3b4b5eb6dbff65c87ec819a6d3b42866fe31bafa/sun.json】
+[146/200] 多节点测试... 🔞 [大人 - 命中"强奸乱伦"] -> [大人18] 【GitHub-wnddwc/daiweichun/164cc8054903fd8e79c4ba32efac9e2c22dc0597/daiweichun.json】
+[147/200] 多节点测试... ✅ [常规健康] -> [自定义128] 【GitHub-ztxiaoyao/tvbox/928e5270829b34e1d0cf7b7e2c2948c909d86748/tvbox/moyu/moyu.json】
+[148/200] 多节点测试... ✅ [常规健康] -> [自定义129] 【GitHub-AlanTse1314/TVBox-18/1d88f6dc52a0de19a217d477f131cd8afd963f43/19.json】
+[149/200] 多节点测试... ✅ [常规健康] -> [自定义130] 【GitHub-zengjian03/hanbox/581daf13cdab586830f6b3872a99f81975f44ac9/0717.json】
+[150/200] 多节点测试... ✅ [常规健康] -> [自定义131] 【GitHub-hainanpc/TVB/3b4b5eb6dbff65c87ec819a6d3b42866fe31bafa/box.json】
+[151/200] 多节点测试... ✅ [常规健康] -> [自定义132] 【GitHub-jieray/TS/9b10db378db80fa5a77a8e443889f62a0720437c/影视.json】
+[152/200] 多节点测试... ✅ [常规健康] -> [自定义133] 【GitHub-lwh666666/lwh666666/c01c92e4152c7efe9f0e6d17ee89ef55f8678191/18.json】
+[153/200] 多节点测试... ✅ [常规健康] -> [自定义134] 【GitHub-anran111111111111111/Dong-learn9/dcdc299f39ead56e403189830a8af98cc095b6c6/18.json】
+[154/200] 多节点测试... 🔞 [大人 - 命中"强奸乱伦"] -> [大人19] 【GitHub-wzxxcz/xcz202508281/76c4228891a958ae39000cbdb607b85f370f0250/jj.json】
+[155/200] 多节点测试... 🔞 [大人 - 命中"强奸乱伦"] -> [大人20] 【GitHub-AlanTse1314/13998394872-TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/PF.json】
+[156/200] 多节点测试... 🔞 [大人 - 命中"成人"] -> [大人21] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/DY2/FL1-4.json】
+[157/200] 多节点测试... ✅ [常规健康] -> [自定义135] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/DY2/adult1.json】
+[158/200] 多节点测试... ✅ [常规健康] -> [自定义136] 【GitHub-woshishiq1/hipy-drpy2/ac148df521eac587e9a384e461efc18681007946/yjl/jthl.json】
+[159/200] 多节点测试... ✅ [常规健康] -> [自定义137] 【GitHub-zpc19870602/live/4dd54902fc8f156265fcc097d2a1c5dbd89ae0c3/PG.json】
+[160/200] 多节点测试... ✅ [常规健康] -> [自定义138] 【GitHub-xsluck/xsluck.github.io/5be25a9486ff76f8c9a7bcec6ee018d6a815b5f8/10086.json】
+[161/200] 多节点测试... ✅ [常规健康] -> [自定义139] 【GitHub-1kingStar/tvboxdd/e6bee19dc90864e8ccd7a11660b88d7fdf2e4a22/xm/xm_2.json】
+[162/200] 多节点测试... ✅ [常规健康] -> [自定义140] 【GitHub-sonikill22/maotv/05c5e3b2c8ceb9a36673da745552875974315397/TVBox/Text/ptest.json】
+[163/200] 多节点测试... ✅ [常规健康] -> [自定义141] 【GitHub-AlanTse1314/Dong-learn9-TVBox-zyjk/a833ae2d536a600c736bf403117ad322f5fe6cbf/19.json】
+[164/200] 多节点测试... 🔞 [大人 - 命中"AV"] -> [大人22] 【GitHub-KAN314go/23/086eed7e9132d9276853ff417d72062273ee1297/py.json】
+[165/200] 多节点测试... ✅ [常规健康] -> [自定义142] 【GitHub-licong00007/licong00007.github.io/0aa1a2e600c46fc6d499159573786a08fc88323a/qiaoji0817.json】
+[166/200] 多节点测试... ✅ [常规健康] -> [自定义143] 【GitHub-M-ichae-l/TV-self/f9e4a72851a56e31c13fff7cf451248879511fa3/source/YM/cs.json】
+[167/200] 多节点测试... ✅ [常规健康] -> [自定义144] 【GitHub-434387713/tv/e2d0ace74d217e99a699279d46bd7a5950f157c0/lib/jsm.json】
+[168/200] 多节点测试... ✅ [常规健康] -> [自定义145] 【GitHub-rrzt/home/ae729314c977c6fb30bb71fabeb23365ac6b741d/mao210jia.json】
+[169/200] 多节点测试... ✅ [常规健康] -> [自定义146] 【GitHub-hstsws/zy/9861fbfb4e8e08c6b51297b644a0c431894f0870/888.json】
+[170/200] 多节点测试... 🔞 [大人 - 命中"天美"] -> [大人23] 【GitHub-AlanTse1314/13998394872-TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/PG.json】
+[171/200] 多节点测试... ✅ [常规健康] -> [自定义147] 【GitHub-1280283789/TVBOX/c08ecb94e136bf7b7f0c4d731443e1bb84e10f9e/pg/jsm.json】
+[172/200] 多节点测试... 🔞 [大人 - 命中"福利"] -> [大人24] 【GitHub-qgys/qgys/25685f6797f72759ac9ecf85006f4f7f2a2aa2c1/fm.json】
+[173/200] 多节点测试... ✅ [常规健康] -> [自定义148] 【GitHub-bobyangchinanew/bob-1/2de3d99828fd7eaef11fdf4cffc0ae00aba5d254/欧歌接口(整合).json】
+[174/200] 多节点测试... ✅ [常规健康] -> [自定义149] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc12-2/动漫帝国/dmtd.json】
+[175/200] 多节点测试... ✅ [常规健康] -> [自定义150] 【GitHub-ingolfpan/pv/ada9b97d3f5595f5625e2699b4ef34b1e31c3057/4k.json】
+[176/200] 多节点测试... ✅ [常规健康] -> [自定义151] 【GitHub-maoystv/TV/045d8532daf63ccb18c97c3c096494c74f8bede3/jar/000.json】
+[177/200] 多节点测试... ✅ [常规健康] -> [自定义152] 【GitHub-24090144d/tv/0fe40dfae7f23a9253038644537b41a627bcd3ae/doc/sc200/🦉讴歌.json】
+[178/200] 多节点测试... 🔞 [大人 - 命中"中文字幕"] -> [大人25] 【GitHub-13174771/tvboxlist/9b7cd3f60c7f568666713dfce80d09ab0beaf5bc/18+.json】
+[179/200] 多节点测试... ✅ [常规健康] -> [自定义153] 【GitHub-huangxiaozhou/tvbox/cb9bb7f06cfa146fbc8c35190818e95f34986316/jj.json】
+[180/200] 多节点测试... ✅ [常规健康] -> [自定义154] 【GitHub-ls125781003/tbapi2/1986dd5c98e87578040d488e264c7308ad2a8953/xiaosac/影视/api.json】
+[181/200] 多节点测试... ✅ [常规健康] -> [自定义155] 【GitHub-wgej66/wgej/80dbe60ddc347f79a8111f5e3babdcc9fe5dc3f9/修改影视.json】
+[182/200] 多节点测试... ✅ [常规健康] -> [自定义156] 【GitHub-hkwgit2024/TVBOXZD2/2f1be5add00b6a12488b916e46c3797612543e57/box/m_20250807102836.json】
+[183/200] 多节点测试... ✅ [常规健康] -> [自定义157] 【GitHub-Wuxiao139/Tvbox/63e7eecffd4bf99221cfbd65f5de862f84674d33/js/js.json】
+[184/200] 多节点测试... ✅ [常规健康] -> [自定义158] 【GitHub-ssy151/ysc/06b4959852e82f97ac3020e027d21c3ab0ae3f9f/2019/南风/api.json】
+[185/200] 多节点测试... ✅ [常规健康] -> [自定义159] 【GitHub-ken088/pg/d938ebfca3ed6e717736183b2e02ae5d311b9a02/jasamgn.json】
+[186/200] 多节点测试... ✅ [常规健康] -> [自定义160] 【GitHub-KAN314go/77/2a7f97688810b5f2a616a611d2d74d52dd348280/jsm.json】
+[187/200] 多节点测试... ✅ [常规健康] -> [自定义161] 【GitHub-xukai19891114/xu_tv_box/a1d0c2dbca1b394cd34b2efbada609e653443743/my-tvbox-custom/新建文件夹/ZJ1.json】
+[188/200] 多节点测试... ✅ [常规健康] -> [自定义162] 【GitHub-woshishiq1/hipy-drpy2/ac148df521eac587e9a384e461efc18681007946/aa999ok/CK/009/XC.json】
+[189/200] 多节点测试... 🔞 [大人 - 命中"麻豆"] -> [大人26] 【GitHub-24090144d/tv/0fe40dfae7f23a9253038644537b41a627bcd3ae/xc.json】
+[190/200] 多节点测试... ✅ [常规健康] -> [自定义163] 【GitHub-yjlsx/quantumult-x/20f96bdb0776c4c7fd26006aec4d47d30d23e034/zyplayer/yingshican.json】
+[191/200] 多节点测试... ✅ [常规健康] -> [自定义164] 【GitHub-97381736/97381736.github.io/9b8bd914a6c9f743f9c158351b77b4fc732cbc42/tvbox/ziyuan/1.json】
+[192/200] 多节点测试... ✅ [常规健康] -> [自定义165] 【GitHub-dk393722/tv/59f69e0c42d03d95636f8423ff46423cc17a36c4/zy22.json】
+[193/200] 多节点测试... ✅ [常规健康] -> [自定义166] 【GitHub-AlanTse1314/c12048700/b385908a9a10086e0b46317680caef89310bf6b6/vip.json】
+[194/200] 多节点测试... ✅ [常规健康] -> [自定义167] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc11-3/小米/xiaomi.json】
+[195/200] 多节点测试... ✅ [常规健康] -> [自定义168] 【GitHub-AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/18011/jjzx.json】
+[196/200] 多节点测试... ✅ [常规健康] -> [自定义169] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc11-2/svip/svip.json】
+[197/200] 多节点测试... ✅ [常规健康] -> [自定义170] 【GitHub-AlanTse1314/13998394872-TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/FM.json】
+[198/200] 多节点测试... ✅ [常规健康] -> [自定义171] 【GitHub-anran111111111111111/Dong-learn9/dcdc299f39ead56e403189830a8af98cc095b6c6/19.json】
+[199/200] 多节点测试... ✅ [常规健康] -> [自定义172] 【GitHub-15185974642/tangshi/14d73d273774d4ef177b859d234ceb8d714b80e2/19.json】
+[200/200] 多节点测试... ✅ [常规健康] -> [自定义173] 【GitHub-AlanTse1314/c12048700/b385908a9a10086e0b46317680caef89310bf6b6/js0.json】
+
+=================== 聚合排查报告 (严格标准 + 极速响应) ===================
+✅ 存活常规健康源: 173 个
+🔞 存活成人隔离源: 26 个
+❌ 确认完全无法访问/非TVBox结构: 1 个
+------------------------------------------------------------------
+💾 保存最新纯净文件: multisite_proxy_latest.json (173 条)
+💾 保存最新纯净文件: multisite_github_latest.json (173 条)
+💾 保存最新纯净文件: multisite_adult_proxy_latest.json (26 条)
+💾 保存最新纯净文件: multisite_adult_github_latest.json (26 条)
+💾 保存最新纯净文件: multisite_invalid_proxy_latest.json (1 条)
+💾 保存最新纯净文件: multisite_invalid_github_latest.json (1 条)
