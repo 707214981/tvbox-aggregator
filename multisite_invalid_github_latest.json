@@ -31,6 +31,14 @@
     {
       "name": "[剔除8] 【GitHub-luma/webrtc/e541b4e11bcad83b881337eb09896f03943f6745/src/chromium/src/tools/perf/page_sets/alexa1-10000-urls.json】",
       "url": "https://raw.githubusercontent.com/luma/webrtc/e541b4e11bcad83b881337eb09896f03943f6745/src/chromium/src/tools/perf/page_sets/alexa1-10000-urls.json"
+    },
+    {
+      "name": "[剔除9] 【GitHub-xiongjian83/TvBox/e4aeee835df0e7739792a3142b0995a854886540/YZ.json】",
+      "url": "https://raw.githubusercontent.com/xiongjian83/TvBox/e4aeee835df0e7739792a3142b0995a854886540/YZ.json"
+    },
+    {
+      "name": "[剔除10] 【GitHub-arandomguyhere/Google-News-Scraper/ca82025de574e93df8a1585b4e639eccd9a95952/archives/20250923_091456/news_20250923_091456.json】",
+      "url": "https://raw.githubusercontent.com/arandomguyhere/Google-News-Scraper/ca82025de574e93df8a1585b4e639eccd9a95952/archives/20250923_091456/news_20250923_091456.json"
     }
   ]
 }
