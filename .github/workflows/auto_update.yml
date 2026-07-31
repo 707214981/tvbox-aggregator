@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5 # 升级官方拉取插件到最新版
 
       - name: Setup Node.js Environment
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5 # 升级官方 Node 插件到最新版
         with:
-          node-version: '20' # 升级Node环境版本
+          node-version: '24' # 直接指定最新的 Node 24 环境
 
       - name: Execute Search & Healthcheck Script
         env:
