@@ -1,0 +1,20 @@
+🚀 开始处理 TVBox 配置文件 (多重 CDN + 直连兜底 + 原因排查模式)...
+
+📦 历史加载：读取到历史已知接口 0 条。
+🔍 开始检索 GitHub Code Search API...
+  └─ GitHub 返回状态: HTTP 401
+
+🧹 汇总去重：最终得到【0】条候选接口，开始发起【混合探针健康复检】...
+
+
+=================== 聚合排查报告 (严格标准 + 极速响应) ===================
+✅ 存活常规健康源: 0 个
+🔞 存活成人隔离源: 0 个
+❌ 确认完全无法访问/非TVBox结构: 0 个
+-------------------------------------------------------------------------
+💾 保存最新纯净文件: multisite_proxy_latest.json (0 条)
+💾 保存最新纯净文件: multisite_github_latest.json (0 条)
+💾 保存最新纯净文件: multisite_adult_proxy_latest.json (0 条)
+💾 保存最新纯净文件: multisite_adult_github_latest.json (0 条)
+💾 保存最新纯净文件: multisite_invalid_proxy_latest.json (0 条)
+💾 保存最新纯净文件: multisite_invalid_github_latest.json (0 条)
