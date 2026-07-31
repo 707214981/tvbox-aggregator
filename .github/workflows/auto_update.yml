@@ -26,17 +26,21 @@ jobs:
           MY_GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: node search.js
 
-      - name: Save JSON & Logs to Repository
+      - name: Clean Old Logs & Save to Repository
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
+          # 🧹 自动查找并删除 30 天以前创建/修改的 run_log_*.log.txt 文件
+          find . -maxdepth 1 -name "run_log_*.log.txt" -type f -mtime +30 -exec rm -f {} \;
+          
+          # 自动添加更新后的 json 和剩下的 log 文件
           git add *.json run_log_*.log.txt || true
           
           if git diff --staged --quiet; then
             echo "✅ 接口数据无变化，跳过提交。"
           else
-            git commit -m "chore: 云端自动复检并更新 TVBox 接口文件 [skip ci]"
+            git commit -m "chore: 云端自动复检更新（自动清理 30 天前日志） [skip ci]"
             git push
             echo "🎉 最新配置文件已自动保存回仓库！"
           fi
