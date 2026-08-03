@@ -67,6 +67,14 @@
     {
       "name": "[剔除17] 【GitHub-XiaoHaiSly/proxy/fa07caab8c054d5918344c7bb5d8a2018d97c0bb/rules/singbox/domain/gfw.json】",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/XiaoHaiSly/proxy/fa07caab8c054d5918344c7bb5d8a2018d97c0bb/rules/singbox/domain/gfw.json"
+    },
+    {
+      "name": "[剔除18] 【GitHub-xiongjian83/TvBox/2940f1c20c67325b4410becdf82a7f3872a316a3/YZ.json】",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiongjian83/TvBox/2940f1c20c67325b4410becdf82a7f3872a316a3/YZ.json"
+    },
+    {
+      "name": "[剔除19] 【GitHub-arandomguyhere/Google-News-Scraper/d3df89dfacdf9f167f0989a80a7c7eb04d405ebb/archives/20250923_091456/news_20250923_091456.json】",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/arandomguyhere/Google-News-Scraper/d3df89dfacdf9f167f0989a80a7c7eb04d405ebb/archives/20250923_091456/news_20250923_091456.json"
     }
   ]
 }
