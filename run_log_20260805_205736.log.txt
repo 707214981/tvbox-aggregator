@@ -1,0 +1,453 @@
+🚀 开始处理 TVBox 配置文件 (最新资源倒序 + 多重 CDN 校验)...
+
+📦 历史加载：读取到历史已知接口 378 条。
+🔍 开始检索 GitHub Code Search API (⚡已开启最新资源优先模式)...
+  └─ [最新资源-成功] 第 1 页检索到 100 条数据
+  └─ [最新资源-成功] 第 2 页检索到 100 条数据
+  └─ [最新资源-成功] 第 3 页检索到 100 条数据
+
+🧹 汇总去重：最终得到【431】条候选接口，开始发起【混合探针健康复检】...
+
+[1/431] 节点测试... ✅ [常规健康] -> [自定义1] 【GitHub-phoenix7750/iptv/5dfdd07ec5f718a418c31b8eb622aec94c0da7d5/tvbox.json】
+[2/431] 节点测试... ✅ [常规健康] -> [自定义2] 【GitHub-Dong-learn9/TVBox-zyjk/adb3ff7df4e0465c23bdf62b2c9536de25c08db2/18.json】
+[3/431] 节点测试... ✅ [常规健康] -> [自定义3] 【GitHub-sbday/xiaoya/b88487e66e37c6c45f7d74fdaaa265959ecaec6c/tvbox.json】
+[4/431] 节点测试... ✅ [常规健康] -> [自定义4] 【GitHub-jessic01/box1/bb7d749d3eb60b5b5cbf83527eba65ab0db6a37f/tvbox.json】
+[5/431] 节点测试... ✅ [常规健康] -> [自定义5] 【GitHub-ylxdy/IPTV/a12b085cfe580069830c7aa7e7394213d80e03d8/tvbox.json】
+[6/431] 节点测试... ✅ [常规健康] -> [自定义6] 【GitHub-loveFeng/loveFeng.github.io/bfd18d0cdc571cfc7e9ca4399c2cd7516a28377f/tvbox.json】
+[7/431] 节点测试... ✅ [常规健康] -> [自定义7] 【GitHub-talk2030/tv/3cacee7c7789641afb38b49832dca77fa703ae5c/tvbox.json】
+[8/431] 节点测试... ✅ [常规健康] -> [自定义8] 【GitHub-duwei0997/tbox/b0000171f14b358e62370260109f54bc3e4bc383/tvbox.json】
+[9/431] 节点测试... ✅ [常规健康] -> [自定义9] 【GitHub-Dong-learn9/TVBox-zyjk/adb3ff7df4e0465c23bdf62b2c9536de25c08db2/19.json】
+[10/431] 节点测试... ✅ [常规健康] -> [自定义10] 【GitHub-heroaku/TVboxo/42edfca812780525e95a1c1c2d97d6ed664e27a4/9m.json】
+[11/431] 节点测试... ✅ [常规健康] -> [自定义11] 【GitHub-kcjsd/TVBOXZY/1fe21df6951ac329ec80fce9e26956440992cdb9/tvbox.json】
+[12/431] 节点测试... ✅ [常规健康] -> [自定义12] 【GitHub-niubihu1/tvbox-/a432316c979224b10b64ecbf90ee7836a342b3ec/1.json】
+[13/431] 节点测试... ✅ [常规健康] -> [自定义13] 【GitHub-franksun1211/TVBOX/2e9b7668fd4ce8f5a183f64ba98ec01e07872e3d/sun.json】
+[14/431] 节点测试... ✅ [常规健康] -> [自定义14] 【GitHub-franksun1211/TVBOX/2e9b7668fd4ce8f5a183f64ba98ec01e07872e3d/box.json】
+[15/431] 节点测试... ✅ [常规健康] -> [自定义15] 【GitHub-xiongjian83/TvBox/d16a21043d9dd9cc3420643f2c7015b34b813e70/19.json】
+[16/431] 节点测试... ✅ [常规健康] -> [自定义16] 【GitHub-alantang1977/X/9ee7f16887dd21a82be52ce26839d074c9b86e4f/vox.json】
+[17/431] 节点测试... ✅ [常规健康] -> [自定义17] 【GitHub-franksun1211/TVBOX/2e9b7668fd4ce8f5a183f64ba98ec01e07872e3d/0706.json】
+[18/431] 节点测试... ✅ [常规健康] -> [自定义18] 【GitHub-xiongjian83/TvBox/d16a21043d9dd9cc3420643f2c7015b34b813e70/18/19.json】
+[19/431] 节点测试... ✅ [常规健康] -> [自定义19] 【GitHub-heroaku/TVboxo/42edfca812780525e95a1c1c2d97d6ed664e27a4/apic.json】
+[20/431] 节点测试... ✅ [常规健康] -> [自定义20] 【GitHub-heroaku/TVboxo/42edfca812780525e95a1c1c2d97d6ed664e27a4/apit.json】
+[21/431] 节点测试... ✅ [常规健康] -> [自定义21] 【GitHub-franksun1211/TVBOX/2e9b7668fd4ce8f5a183f64ba98ec01e07872e3d/2K24.json】
+[22/431] 节点测试... ✅ [常规健康] -> [自定义22] 【GitHub-xiongjian83/TvBox/d16a21043d9dd9cc3420643f2c7015b34b813e70/X.json】
+[23/431] 节点测试... ✅ [常规健康] -> [自定义23] 【GitHub-shichuanenhui/TvBox/244c9d86055f93ad73cd8590030932f0c5f79e0e/fty.json】
+[24/431] 节点测试... ✅ [常规健康] -> [自定义24] 【GitHub-niubihu1/tvbox-/a432316c979224b10b64ecbf90ee7836a342b3ec/2.json】
+[25/431] 节点测试... ✅ [常规健康] -> [自定义25] 【GitHub-Henrytuan/tvbox/72894eca97dbc88d0c4a9bd3eb098d1fc75a0757/tvbox.json】
+[26/431] 节点测试... ✅ [常规健康] -> [自定义26] 【GitHub-zhuxinfu88/tvlist/a51850cdcdee786fcc64b423191d8a523cf90c59/jar/0.json】
+[27/431] 节点测试... ✅ [常规健康] -> [自定义27] 【GitHub-15978929868/aikanIPTV/b3b9afdc5dafdc28d6b8d30808a2ef948f787da6/tvbox.json】
+[28/431] 节点测试... ✅ [常规健康] -> [自定义28] 【GitHub-jigedos/geekcomputers/37b365174b6e3205dc881880c4396f2ef2e75028/630.json】
+[29/431] 节点测试... ✅ [常规健康] -> [自定义29] 【GitHub-cysk003/Yoursmile7_TVBox/135b44c68587dfe980c8f2be996edccf63f0108b/XC.json】
+[30/431] 节点测试... ✅ [常规健康] -> [自定义30] 【GitHub-fycszqfhd/TVBox/81ec1ca237b2ed696414e40abcfaaf5060fcd77b/tvbox1.json】
+[31/431] 节点测试... ✅ [常规健康] -> [自定义31] 【GitHub-cymcn/myTVBox/77eca3f31b4ff026043b664b8be81ce8607205fc/XC.json】
+[32/431] 节点测试... ✅ [常规健康] -> [自定义32] 【GitHub-tiantaiyx/tvbox/d97a57c12bc0ac189cda5acfe530394e03d80371/0706.json】
+[33/431] 节点测试... ✅ [常规健康] -> [自定义33] 【GitHub-tiantaiyx/tvbox/d97a57c12bc0ac189cda5acfe530394e03d80371/0701.json】
+[34/431] 节点测试... ✅ [常规健康] -> [自定义34] 【GitHub-jyoketsu/tv/935e9113f1972b5b2ee0cfa4abb974a93dc78de4/m.json】
+[35/431] 节点测试... ✅ [常规健康] -> [自定义35] 【GitHub-yohaa0/yscang/046e0008e718d3457e4d31c198eb000ee4bf377a/XC.json】
+[36/431] 节点测试... ✅ [常规健康] -> [自定义36] 【GitHub-zyscdx/tvbox/e5f6e290f664356ba6c4132f6b5fa088dacabc5d/fhvk.json】
+[37/431] 节点测试... ✅ [常规健康] -> [自定义37] 【GitHub-1771245847/TvBox/126810736e594b505159ee29d5117d091ca85dcb/cyys.json】
+[38/431] 节点测试... ✅ [常规健康] -> [自定义38] 【GitHub-niubihu1/tvbox-/a432316c979224b10b64ecbf90ee7836a342b3ec/3.json】
+[39/431] 节点测试... ✅ [常规健康] -> [自定义39] 【GitHub-yueer59/Tvbox/74ee1483b67e73767fe67bf3a2d4d6502c4cafcd/api.json】
+[40/431] 节点测试... ✅ [常规健康] -> [自定义40] 【GitHub-lmlmi/xxxx/453b2de69db1bc9a2221a9662766d7461b4f7c08/wq18.json】
+[41/431] 节点测试... ✅ [常规健康] -> [自定义41] 【GitHub-wlcmc1972/tvbox/a51c444a576383d53803061e5ee11bb01e249c72/t2.json】
+[42/431] 节点测试... ✅ [常规健康] -> [自定义42] 【GitHub-ne7359/tvurl/50bcb17c4694ee8700f603d73fa2033c60e9f447/js.json】
+[43/431] 节点测试... ✅ [常规健康] -> [自定义43] 【GitHub-a736240087/tvbox/a6fe36be617e3a020bbcc629b21d1549004db0b1/2.json】
+[44/431] 节点测试... ✅ [常规健康] -> [自定义44] 【GitHub-lmlmi/xxxx/453b2de69db1bc9a2221a9662766d7461b4f7c08/888.json】
+[45/431] 节点测试... ✅ [常规健康] -> [自定义45] 【GitHub-habao260/zy/287cebc8a02d04faa5772b4c99a778f9d59f8110/2023.json】
+[46/431] 节点测试... ✅ [常规健康] -> [自定义46] 【GitHub-niubihu1/tvbox-/a432316c979224b10b64ecbf90ee7836a342b3ec/368.json】
+[47/431] 节点测试... ✅ [常规健康] -> [自定义47] 【GitHub-c120487/00/557e71b0753c5e6702023d683fa7d4fb7ab7bdd7/vip.json】
+[48/431] 节点测试... ✅ [常规健康] -> [自定义48] 【GitHub-lmlmi/xxxx/453b2de69db1bc9a2221a9662766d7461b4f7c08/PRO.json】
+[49/431] 节点测试... ✅ [常规健康] -> [自定义49] 【GitHub-guot55/yg/d0879e44c351c7ede52709ae4194a0c1f692855f/jsm.json】
+[50/431] 节点测试... ✅ [常规健康] -> [自定义50] 【GitHub-lubin776/tvbox/419a1a8bec48559e66594216517a443914af3d0f/0/b.json】
+[51/431] 节点测试... ✅ [常规健康] -> [自定义51] 【GitHub-kcjsd/TVBOXZY/1fe21df6951ac329ec80fce9e26956440992cdb9/18.json】
+[52/431] 节点测试... ✅ [常规健康] -> [自定义52] 【GitHub-treysiz/treysiz.github.io/76b8bbaf78bf30cb28c05bbc47fa2aa9ac3185ca/NEW.json】
+[53/431] 节点测试... ✅ [常规健康] -> [自定义53] 【GitHub-ellondoa/Yoursmile7-TVBox/42a9a6b6db2d01d1f8eabf40eb525cc1aa652696/XC.json】
+[54/431] 节点测试... ✅ [常规健康] -> [自定义54] 【GitHub-swhtv/111/f3514b9b18bc0515993f37a92655f8d300c3302b/fj.json】
+[55/431] 节点测试... ✅ [常规健康] -> [自定义55] 【GitHub-yw88075/tvbox/5df857abc263fda3c3e6cb1c285229f4d5e02230/yw.json】
+[56/431] 节点测试... ✅ [常规健康] -> [自定义56] 【GitHub-Newtxin/tvbox/d07b4c987056fba4af1ce5ca7c139161c9b11972/015.json】
+[57/431] 节点测试... ✅ [常规健康] -> [自定义57] 【GitHub-wxz52155/TVBOXZY3/1dead3d0078ba6864d9dc8ded5eb4b46f2570b7b/sp.json】
+[58/431] 节点测试... ✅ [常规健康] -> [自定义58] 【GitHub-nxjonson/za/aa762e4c3ef75ea026915ad7a05853cbcc858085/XC.json】
+[59/431] 节点测试... ✅ [常规健康] -> [自定义59] 【GitHub-jigedos/geekcomputers/37b365174b6e3205dc881880c4396f2ef2e75028/0717.json】
+[60/431] 节点测试... ✅ [常规健康] -> [自定义60] 【GitHub-jj00780078/jj00780078.github.io/1e36ee2d98a5e8685ef202e53f7b834c9cb9ae0e/a5.json】
+[61/431] 节点测试... ✅ [常规健康] -> [自定义61] 【GitHub-jane3824/TV/84d2da9193231bc34dda9c95780e4cb36c635e1b/fm.json】
+[62/431] 节点测试... ✅ [常规健康] -> [自定义62] 【GitHub-phoenix7750/iptv/5dfdd07ec5f718a418c31b8eb622aec94c0da7d5/tsq.json】
+[63/431] 节点测试... ✅ [常规健康] -> [自定义63] 【GitHub-SuperTreasure/tvbox/323f88979740aabb9b7792456cb13a9b035c0fe0/api.json】
+[64/431] 节点测试... ✅ [常规健康] -> [自定义64] 【GitHub-ncnc8388/ncnc8388.github.io/568bdd8a7e17b89d86ea38502c742d497a7b3bb8/0730.json】
+[65/431] 节点测试... ✅ [常规健康] -> [自定义65] 【GitHub-cx342662/cx342662.github.io/a6585617e22a1135880a2cf939ab7f2a7c4b5013/ix.json】
+[66/431] 节点测试... ✅ [常规健康] -> [自定义66] 【GitHub-cx342662/cx342662.github.io/a6585617e22a1135880a2cf939ab7f2a7c4b5013/ix3.json】
+[67/431] 节点测试... ✅ [常规健康] -> [自定义67] 【GitHub-c120487/00/557e71b0753c5e6702023d683fa7d4fb7ab7bdd7/js0.json】
+[68/431] 节点测试... ✅ [常规健康] -> [自定义68] 【GitHub-xiaolvdouya/zhiboyuan/01d16592653304c980987df95012fb7af6a9f7ea/N1.json】
+[69/431] 节点测试... ✅ [常规健康] -> [自定义69] 【GitHub-hutiang/MyTvBox/e6d622a219f752db908ba06b90678536f04bcb30/1.json】
+[70/431] 节点测试... ✅ [常规健康] -> [自定义70] 【GitHub-cc202110/33/248621fb9c5b2e4de5d976b86c5190e6c18acf81/db.json】
+[71/431] 节点测试... ✅ [常规健康] -> [自定义71] 【GitHub-Yoursmile77/TVBox/99d8bb1a28116725329434c5f8bc83a6c558dab8/XC.json】
+[72/431] 节点测试... ✅ [常规健康] -> [自定义72] 【GitHub-lubin776/tvbox/419a1a8bec48559e66594216517a443914af3d0f/gx/0.json】
+[73/431] 节点测试... ✅ [常规健康] -> [自定义73] 【GitHub-jane3824/TV/84d2da9193231bc34dda9c95780e4cb36c635e1b/ok.json】
+[74/431] 节点测试... ✅ [常规健康] -> [自定义74] 【GitHub-guot55/yg/d0879e44c351c7ede52709ae4194a0c1f692855f/pro.json】
+[75/431] 节点测试... ✅ [常规健康] -> [自定义75] 【GitHub-520ad/tvbox/c3b16e6d786df1d2d794ab00ed77600824dfaf49/2.json】
+[76/431] 节点测试... ✅ [常规健康] -> [自定义76] 【GitHub-mrhuanglearn/jdk_jar/0dc4850188755a2c4fbe489e438a39031048a093/XC.json】
+[77/431] 节点测试... ✅ [常规健康] -> [自定义77] 【GitHub-13998394872/TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/FM.json】
+[78/431] 节点测试... ✅ [常规健康] -> [自定义78] 【GitHub-jessic01/box1/bb7d749d3eb60b5b5cbf83527eba65ab0db6a37f/xbpq.json】
+[79/431] 节点测试... ✅ [常规健康] -> [自定义79] 【GitHub-cnnbgo/tvbox/f2afa9065deb1c2c2341df2776abdc6b02c5913f/zh/x.json】
+[80/431] 节点测试... ✅ [常规健康] -> [自定义80] 【GitHub-chh818/chh818.github.io/fdcacc68a07da826692590b6aab21bd31076e84d/7.json】
+[81/431] 节点测试... ✅ [常规健康] -> [自定义81] 【GitHub-smallmi18/smallmi/c764bdde2ae6e32e5a61f85b2ed6e56abbfadd67/js.json】
+[82/431] 节点测试... ✅ [常规健康] -> [自定义82] 【GitHub-fkaf1/fk/67e232dde107b43c422fa692e415ce02a5cfcc33/XC3.json】
+[83/431] 节点测试... ✅ [常规健康] -> [自定义83] 【GitHub-xibao999/x/c836dd27a08687548b3f5ba1061a2fc9dfa4b0d7/b.json】
+[84/431] 节点测试... ✅ [常规健康] -> [自定义84] 【GitHub-lmlmi/xxxx/453b2de69db1bc9a2221a9662766d7461b4f7c08/vip.json】
+[85/431] 节点测试... ✅ [常规健康] -> [自定义85] 【GitHub-xxpctv/MusicF/189fbb9a17bde2236b947ccd7a0488eabf3783f1/XC.json】
+[86/431] 节点测试... ✅ [常规健康] -> [自定义86] 【GitHub-Newtxin/tvbox/d07b4c987056fba4af1ce5ca7c139161c9b11972/001.json】
+[87/431] 节点测试... ✅ [常规健康] -> [自定义87] 【GitHub-swhtv/111/f3514b9b18bc0515993f37a92655f8d300c3302b/jl2.json】
+[88/431] 节点测试... ✅ [常规健康] -> [自定义88] 【GitHub-yw88075/tvbox/5df857abc263fda3c3e6cb1c285229f4d5e02230/XYQTVBox/qiaoji/qjtvbox.json】
+[89/431] 节点测试... ✅ [常规健康] -> [自定义89] 【GitHub-gaotianliuyun/gao/8213bb046f4dce746b5f2ddcddb13a336d0b0d60/XYQ.json】
+[90/431] 节点测试... ✅ [常规健康] -> [自定义90] 【GitHub-hl128k/tvbox/2fa4ab220dc9eb31646043fddef2e7f6e3740cb7/tv/1/xianyuyimu_一木自用.json】
+[91/431] 节点测试... ✅ [常规健康] -> [自定义91] 【GitHub-libinghui123/tvbox/aa8714ac8740061dcd934a31d60c5ffba50a2577/tvbox/lib/无忧ali.json】
+[92/431] 节点测试... ✅ [常规健康] -> [自定义92] 【GitHub-asxs123/mytvboxlist/46469e2b2f78806f4684ec5edd56e5da54677c43/tvboxlist/二哈线路.json】
+[93/431] 节点测试... ✅ [常规健康] -> [自定义93] 【GitHub-xsluck/xsluck.github.io/5be25a9486ff76f8c9a7bcec6ee018d6a815b5f8/XYQTVBox.json】
+[94/431] 节点测试... ✅ [常规健康] -> [自定义94] 【GitHub-hkuc/tvbox-config/0c4bb6d393ea59d8c140b1389ff65280c72e6ba4/tv/2/yw88075_js.json】
+[95/431] 节点测试... ✅ [常规健康] -> [自定义95] 【GitHub-s14685/tv/ba297bfa6cc669ab89a55dc8c543831af1c022c4/dc/ok/最新4k.json】
+[96/431] 节点测试... ✅ [常规健康] -> [自定义96] 【GitHub-huangxinyueus/dby/d017e78c018b138b9394e668250f700430cbf119/DG/磁力/api.json】
+[97/431] 节点测试... ✅ [常规健康] -> [自定义97] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/6/无忧.json】
+[98/431] 节点测试... ✅ [常规健康] -> [自定义98] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/text/wpro00.json】
+[99/431] 节点测试... ✅ [常规健康] -> [自定义99] 【GitHub-guot55/yg/d0879e44c351c7ede52709ae4194a0c1f692855f/pg/cs2.json】
+[100/431] 节点测试... ✅ [常规健康] -> [自定义100] 【GitHub-piperTang/iptv-list/2d92d90f21dbed5379fd6653affbdde672861519/vbox配置/🚀多☆多┃菜妮丝线路.json】
+[101/431] 节点测试... ✅ [常规健康] -> [自定义101] 【GitHub-tlswch/fenwe/725f18363b30a7a5f067641154597dbf13a308bf/js.json】
+[102/431] 节点测试... ✅ [常规健康] -> [自定义102] 【GitHub-AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/无忧/lib/无忧ali.json】
+[103/431] 节点测试... ✅ [常规健康] -> [自定义103] 【GitHub-chengxue2020/Cat-ports/2210420dfb699de241a027ce924df22a8aefe19a/TVBox/0-XiaoSa/本地仓/云盘/api.json】
+[104/431] 节点测试... ✅ [常规健康] -> [自定义104] 【GitHub-xkwjyu/heroaku/57caec2b1fb23999838e3cfa300d4164d29dec7c/Text/tvfs1.json】
+[105/431] 节点测试... ✅ [常规健康] -> [自定义105] 【GitHub-hstsws/zy/9861fbfb4e8e08c6b51297b644a0c431894f0870/全合集.json】
+[106/431] 节点测试... ✅ [常规健康] -> [自定义106] 【GitHub-yumorer/TVBox_warehouse/6e5ff7913462ce457baac01027db3471561ad115/教育/api.json】
+[107/431] 节点测试... ✅ [常规健康] -> [自定义107] 【GitHub-AlanTse1314/TVBox-18/1d88f6dc52a0de19a217d477f131cd8afd963f43/18.json】
+[108/431] 节点测试... ✅ [常规健康] -> [自定义108] 【GitHub-zengjian03/hanbox/581daf13cdab586830f6b3872a99f81975f44ac9/630.json】
+[109/431] 节点测试... ✅ [常规健康] -> [自定义109] 【GitHub-wxz52155/TVBOXZY3/1dead3d0078ba6864d9dc8ded5eb4b46f2570b7b/xb.json】
+[110/431] 节点测试... ✅ [常规健康] -> [自定义110] 【GitHub-wxz52155/TVBOXZY3/1dead3d0078ba6864d9dc8ded5eb4b46f2570b7b/xp.json】
+[111/431] 节点测试... ✅ [常规健康] -> [自定义111] 【GitHub-hkwgit2024/TVBOXZD2/2f1be5add00b6a12488b916e46c3797612543e57/box/config_20250809091800.json】
+[112/431] 节点测试... ✅ [常规健康] -> [自定义112] 【GitHub-AlanTse1314/Dong-learn9-TVBox-zyjk/a833ae2d536a600c736bf403117ad322f5fe6cbf/18.json】
+[113/431] 节点测试... ✅ [常规健康] -> [自定义113] 【GitHub-1697366715/duankou/4c7153f5bf67beaf43c1877104d3e8ec9dd55c19/tvbox/潇洒/api.json】
+[114/431] 节点测试... ✅ [常规健康] -> [自定义114] 【GitHub-wlcmc1972/tvbox/a51c444a576383d53803061e5ee11bb01e249c72/t1.json】
+[115/431] 节点测试... ✅ [常规健康] -> [自定义115] 【GitHub-qcfree/tvbox804/e5f3969b256e186b604b08927b2307c445b2c249/lib/无忧TV.json】
+[116/431] 节点测试... ✅ [常规健康] -> [自定义116] 【GitHub-lilivan1986/clash/1e524d9b4e5a284aa9cf572b5129b2631684f1f7/E8plus.json】
+[117/431] 节点测试... ✅ [常规健康] -> [自定义117] 【GitHub-Frantz-Liu/videoInterface/92d94bebb70e25de4d00d8864c4e1cfb8ef527a3/json/240226-2.json】
+[118/431] 节点测试... ✅ [常规健康] -> [自定义118] 【GitHub-KTogithub/TVBox/f7e0d83bffe8eb719389fd103f90b8c05440dabb/sg/摸鱼.json】
+[119/431] 节点测试... ✅ [常规健康] -> [自定义119] 【GitHub-piperTang/iptv-list/2d92d90f21dbed5379fd6653affbdde672861519/vbox配置/🚀香雅情线路.json】
+[120/431] 节点测试... ✅ [常规健康] -> [自定义120] 【GitHub-chxxyz2004/kds/69219466975053dc62292f7c828ef2e359612cf0/jar/0.json】
+[121/431] 节点测试... ✅ [常规健康] -> [自定义121] 【GitHub-21ca/21ca.github.io/4cee7247f382bd03d419b48124e065be8e7bc7e0/xd/qiaoji/qiaoji.json】
+[122/431] 节点测试... ✅ [常规健康] -> [自定义122] 【GitHub-Journey4U/sgdc/e1159f1e8c956590191a20fb2715ef659ddd1ac0/PizazzGY/PizazzGY.json】
+[123/431] 节点测试... ✅ [常规健康] -> [自定义123] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/DY1/PRO (1).json】
+[124/431] 节点测试... ✅ [常规健康] -> [自定义124] 【GitHub-piperTang/iptv-list/2d92d90f21dbed5379fd6653affbdde672861519/vbox配置/🚀多☆多┃道长线路.json】
+[125/431] 节点测试... ✅ [常规健康] -> [自定义125] 【GitHub-aliluya1977/PizazzGYTVBox/4a12bdb2096f5bb33cfa27d7b6310ebfc2916413/api.json】
+[126/431] 节点测试... ✅ [常规健康] -> [自定义126] 【GitHub-myfriendqaz/ysctvbox/e570c7e5096bafd1204a59cc9a6972bf2a696e9e/香雅情 xyqonlinerule-main/xyqonlinerule-main/XYQTVBox.json】
+[127/431] 节点测试... ✅ [常规健康] -> [自定义127] 【GitHub-hainanpc/TVB/3b4b5eb6dbff65c87ec819a6d3b42866fe31bafa/sun.json】
+[128/431] 节点测试... ✅ [常规健康] -> [自定义128] 【GitHub-ztxiaoyao/tvbox/928e5270829b34e1d0cf7b7e2c2948c909d86748/tvbox/moyu/moyu.json】
+[129/431] 节点测试... ✅ [常规健康] -> [自定义129] 【GitHub-AlanTse1314/TVBox-18/1d88f6dc52a0de19a217d477f131cd8afd963f43/19.json】
+[130/431] 节点测试... ✅ [常规健康] -> [自定义130] 【GitHub-zengjian03/hanbox/581daf13cdab586830f6b3872a99f81975f44ac9/0717.json】
+[131/431] 节点测试... ✅ [常规健康] -> [自定义131] 【GitHub-hainanpc/TVB/3b4b5eb6dbff65c87ec819a6d3b42866fe31bafa/box.json】
+[132/431] 节点测试... ✅ [常规健康] -> [自定义132] 【GitHub-jieray/TS/9b10db378db80fa5a77a8e443889f62a0720437c/影视.json】
+[133/431] 节点测试... ✅ [常规健康] -> [自定义133] 【GitHub-lwh666666/lwh666666/c01c92e4152c7efe9f0e6d17ee89ef55f8678191/18.json】
+[134/431] 节点测试... ✅ [常规健康] -> [自定义134] 【GitHub-anran111111111111111/Dong-learn9/dcdc299f39ead56e403189830a8af98cc095b6c6/18.json】
+[135/431] 节点测试... ✅ [常规健康] -> [自定义135] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/DY2/adult1.json】
+[136/431] 节点测试... ✅ [常规健康] -> [自定义136] 【GitHub-woshishiq1/hipy-drpy2/ac148df521eac587e9a384e461efc18681007946/yjl/jthl.json】
+[137/431] 节点测试... ✅ [常规健康] -> [自定义137] 【GitHub-zpc19870602/live/4dd54902fc8f156265fcc097d2a1c5dbd89ae0c3/PG.json】
+[138/431] 节点测试... ✅ [常规健康] -> [自定义138] 【GitHub-xsluck/xsluck.github.io/5be25a9486ff76f8c9a7bcec6ee018d6a815b5f8/10086.json】
+[139/431] 节点测试... ✅ [常规健康] -> [自定义139] 【GitHub-1kingStar/tvboxdd/e6bee19dc90864e8ccd7a11660b88d7fdf2e4a22/xm/xm_2.json】
+[140/431] 节点测试... ✅ [常规健康] -> [自定义140] 【GitHub-sonikill22/maotv/05c5e3b2c8ceb9a36673da745552875974315397/TVBox/Text/ptest.json】
+[141/431] 节点测试... ✅ [常规健康] -> [自定义141] 【GitHub-AlanTse1314/Dong-learn9-TVBox-zyjk/a833ae2d536a600c736bf403117ad322f5fe6cbf/19.json】
+[142/431] 节点测试... ✅ [常规健康] -> [自定义142] 【GitHub-licong00007/licong00007.github.io/0aa1a2e600c46fc6d499159573786a08fc88323a/qiaoji0817.json】
+[143/431] 节点测试... ✅ [常规健康] -> [自定义143] 【GitHub-M-ichae-l/TV-self/f9e4a72851a56e31c13fff7cf451248879511fa3/source/YM/cs.json】
+[144/431] 节点测试... ✅ [常规健康] -> [自定义144] 【GitHub-434387713/tv/e2d0ace74d217e99a699279d46bd7a5950f157c0/lib/jsm.json】
+[145/431] 节点测试... ✅ [常规健康] -> [自定义145] 【GitHub-rrzt/home/ae729314c977c6fb30bb71fabeb23365ac6b741d/mao210jia.json】
+[146/431] 节点测试... ✅ [常规健康] -> [自定义146] 【GitHub-hstsws/zy/9861fbfb4e8e08c6b51297b644a0c431894f0870/888.json】
+[147/431] 节点测试... ✅ [常规健康] -> [自定义147] 【GitHub-1280283789/TVBOX/c08ecb94e136bf7b7f0c4d731443e1bb84e10f9e/pg/jsm.json】
+[148/431] 节点测试... ✅ [常规健康] -> [自定义148] 【GitHub-bobyangchinanew/bob-1/2de3d99828fd7eaef11fdf4cffc0ae00aba5d254/欧歌接口(整合).json】
+[149/431] 节点测试... ✅ [常规健康] -> [自定义149] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc12-2/动漫帝国/dmtd.json】
+[150/431] 节点测试... ✅ [常规健康] -> [自定义150] 【GitHub-ingolfpan/pv/ada9b97d3f5595f5625e2699b4ef34b1e31c3057/4k.json】
+[151/431] 节点测试... ✅ [常规健康] -> [自定义151] 【GitHub-maoystv/TV/045d8532daf63ccb18c97c3c096494c74f8bede3/jar/000.json】
+[152/431] 节点测试... ✅ [常规健康] -> [自定义152] 【GitHub-24090144d/tv/0fe40dfae7f23a9253038644537b41a627bcd3ae/doc/sc200/🦉讴歌.json】
+[153/431] 节点测试... ✅ [常规健康] -> [自定义153] 【GitHub-huangxiaozhou/tvbox/cb9bb7f06cfa146fbc8c35190818e95f34986316/jj.json】
+[154/431] 节点测试... ✅ [常规健康] -> [自定义154] 【GitHub-ls125781003/tbapi2/1986dd5c98e87578040d488e264c7308ad2a8953/xiaosac/影视/api.json】
+[155/431] 节点测试... ✅ [常规健康] -> [自定义155] 【GitHub-wgej66/wgej/80dbe60ddc347f79a8111f5e3babdcc9fe5dc3f9/修改影视.json】
+[156/431] 节点测试... ✅ [常规健康] -> [自定义156] 【GitHub-hkwgit2024/TVBOXZD2/2f1be5add00b6a12488b916e46c3797612543e57/box/m_20250807102836.json】
+[157/431] 节点测试... ✅ [常规健康] -> [自定义157] 【GitHub-Wuxiao139/Tvbox/63e7eecffd4bf99221cfbd65f5de862f84674d33/js/js.json】
+[158/431] 节点测试... ✅ [常规健康] -> [自定义158] 【GitHub-ssy151/ysc/06b4959852e82f97ac3020e027d21c3ab0ae3f9f/2019/南风/api.json】
+[159/431] 节点测试... ✅ [常规健康] -> [自定义159] 【GitHub-ken088/pg/d938ebfca3ed6e717736183b2e02ae5d311b9a02/jasamgn.json】
+[160/431] 节点测试... ✅ [常规健康] -> [自定义160] 【GitHub-KAN314go/77/2a7f97688810b5f2a616a611d2d74d52dd348280/jsm.json】
+[161/431] 节点测试... ✅ [常规健康] -> [自定义161] 【GitHub-xukai19891114/xu_tv_box/a1d0c2dbca1b394cd34b2efbada609e653443743/my-tvbox-custom/新建文件夹/ZJ1.json】
+[162/431] 节点测试... ✅ [常规健康] -> [自定义162] 【GitHub-woshishiq1/hipy-drpy2/ac148df521eac587e9a384e461efc18681007946/aa999ok/CK/009/XC.json】
+[163/431] 节点测试... ✅ [常规健康] -> [自定义163] 【GitHub-yjlsx/quantumult-x/20f96bdb0776c4c7fd26006aec4d47d30d23e034/zyplayer/yingshican.json】
+[164/431] 节点测试... ✅ [常规健康] -> [自定义164] 【GitHub-97381736/97381736.github.io/9b8bd914a6c9f743f9c158351b77b4fc732cbc42/tvbox/ziyuan/1.json】
+[165/431] 节点测试... ✅ [常规健康] -> [自定义165] 【GitHub-dk393722/tv/59f69e0c42d03d95636f8423ff46423cc17a36c4/zy22.json】
+[166/431] 节点测试... ✅ [常规健康] -> [自定义166] 【GitHub-AlanTse1314/c12048700/b385908a9a10086e0b46317680caef89310bf6b6/vip.json】
+[167/431] 节点测试... ✅ [常规健康] -> [自定义167] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc11-3/小米/xiaomi.json】
+[168/431] 节点测试... ✅ [常规健康] -> [自定义168] 【GitHub-AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/18011/jjzx.json】
+[169/431] 节点测试... ✅ [常规健康] -> [自定义169] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc11-2/svip/svip.json】
+[170/431] 节点测试... ✅ [常规健康] -> [自定义170] 【GitHub-AlanTse1314/13998394872-TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/FM.json】
+[171/431] 节点测试... ✅ [常规健康] -> [自定义171] 【GitHub-anran111111111111111/Dong-learn9/dcdc299f39ead56e403189830a8af98cc095b6c6/19.json】
+[172/431] 节点测试... ✅ [常规健康] -> [自定义172] 【GitHub-15185974642/tangshi/14d73d273774d4ef177b859d234ceb8d714b80e2/19.json】
+[173/431] 节点测试... ✅ [常规健康] -> [自定义173] 【GitHub-AlanTse1314/c12048700/b385908a9a10086e0b46317680caef89310bf6b6/js0.json】
+[174/431] 节点测试... ✅ [常规健康] -> [自定义174] 【GitHub-qist/tvbox/b0e77b509834da5454ed55aa787800fc03c4dd96/dianshi.json】
+[175/431] 节点测试... ✅ [常规健康] -> [自定义175] 【GitHub-zengjian03/hanbox/581daf13cdab586830f6b3872a99f81975f44ac9/jk/TVbox.json】
+[176/431] 节点测试... ✅ [常规健康] -> [自定义176] 【GitHub-lc529180405/caicai/bdd2d7b2df82226cddc3bacc351d62acdcdcde17/tvbox/api.json】
+[177/431] 节点测试... ✅ [常规健康] -> [自定义177] 【GitHub-qcfree/tvboxzy02/67777dd1fd195caa903bc6a3852f65dbdab5fa2e/XYQTVBox/qiaoji/qjtvbox.json】
+[178/431] 节点测试... ✅ [常规健康] -> [自定义178] 【GitHub-xz202406/tvbox/575a5e5055f5e7566da31485d5f9a3db87690d6d/XYQTVBox/qiaoji/qjtvbox.json】
+[179/431] 节点测试... ✅ [常规健康] -> [自定义179] 【GitHub-yw88075/tvbox/5df857abc263fda3c3e6cb1c285229f4d5e02230/pg/jsm.json】
+[180/431] 节点测试... ✅ [常规健康] -> [自定义180] 【GitHub-li5bo5/TVBox/4fd825fce9b9f279e99c3271882e875e150adfc3/json/0403.2.json】
+[181/431] 节点测试... ✅ [常规健康] -> [自定义181] 【GitHub-madaodei/xx/c1e2963336f957e59caf52752a11358e9a79e3bc/全合集.json】
+[182/431] 节点测试... ✅ [常规健康] -> [自定义182] 【GitHub-amazonjdshop/tv/ef3b03ccb43291857d6330e1c78a8e505e6da95d/XYQ.json】
+[183/431] 节点测试... ✅ [常规健康] -> [自定义183] 【GitHub-rrzt/tvbox_collect/84d6fb4523e9482b2e5ea69033de83cfada5cf30/yjl/jthl.json】
+[184/431] 节点测试... ✅ [常规健康] -> [自定义184] 【GitHub-DAlxbss/LXbbsv/24f2e8d598080113392b4b09bef32c0785b687df/tvboxAAA/造梦/造梦玄武 - 副本.json】
+[185/431] 节点测试... ✅ [常规健康] -> [自定义185] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc2502-2/欧歌/ouge.json】
+[186/431] 节点测试... ✅ [常规健康] -> [自定义186] 【GitHub-rrzt/tvbox_collect/84d6fb4523e9482b2e5ea69033de83cfada5cf30/yuanwangokkTV-BOX18/备份/tvboxTW/本地【天微VIP线】/api.json】
+[187/431] 节点测试... ✅ [常规健康] -> [自定义187] 【GitHub-Journey4U/sgdc/e1159f1e8c956590191a20fb2715ef659ddd1ac0/欧歌/ouge.json】
+[188/431] 节点测试... ✅ [常规健康] -> [自定义188] 【GitHub-tjyu010/tvbox/c6e6c7737258f52473b0eeb4f004308936121ef8/jsm.json】
+[189/431] 节点测试... ✅ [常规健康] -> [自定义189] 【GitHub-Abskoop/mao/a1fbecb3eb6c57839ad674c85b7b3afe2cfbda97/ts.json】
+[190/431] 节点测试... ✅ [常规健康] -> [自定义190] 【GitHub-iswhat/list/9ae7bf51561fef41ce7e5f028e1e4648fe5ff2cf/base2/a.json】
+[191/431] 节点测试... ✅ [常规健康] -> [自定义191] 【GitHub-Abskoop/mao/a1fbecb3eb6c57839ad674c85b7b3afe2cfbda97/bc0701.json】
+[192/431] 节点测试... ✅ [常规健康] -> [自定义192] 【GitHub-ranli2023/tv/36981169ea6a27d33f549ec4150d2f62e7f7f40a/tt/api - 副本.json】
+[193/431] 节点测试... ✅ [常规健康] -> [自定义193] 【GitHub-sunyihao425425/tvbox/76b4fa97d8957cebb94d4eb03cc5baae6837bdd6/family.json】
+[194/431] 节点测试... ✅ [常规健康] -> [自定义194] 【GitHub-xiaosa87/box/e5fdc062021480d89f8e526036a478556590b4ce/ceshi1.json】
+[195/431] 节点测试... ✅ [常规健康] -> [自定义195] 【GitHub-KAN314go/C/77409231b16b443d192f3118e90d82afc833a28e/pg/cs2.json】
+[196/431] 节点测试... ✅ [常规健康] -> [自定义196] 【GitHub-KAN314go/77/2a7f97688810b5f2a616a611d2d74d52dd348280/pg/cs2.json】
+[197/431] 节点测试... ✅ [常规健康] -> [自定义197] 【GitHub-gzgicn/TVBox/1b7ce662ac3dc924b426b231653de3ecb2904079/tv/1/xianyuyimu_一木自用.json】
+[198/431] 节点测试... ✅ [常规健康] -> [自定义198] 【GitHub-hstsws/zy/9861fbfb4e8e08c6b51297b644a0c431894f0870/qiaoji 0719.json】
+[199/431] 节点测试... ✅ [常规健康] -> [自定义199] 【GitHub-KAN314go/C/77409231b16b443d192f3118e90d82afc833a28e/box原.json】
+[200/431] 节点测试... ✅ [常规健康] -> [自定义200] 【GitHub-slasjh/cy/70c71a2e0e672c5fc765df225e6702e4ff4500b5/Lite-副本0803.json】
+[201/431] 节点测试... ✅ [常规健康] -> [自定义201] 【GitHub-wzxxcz/cc1/c6d08d3f4f1be75475612d0912ead10382d27e29/sgdc12-2/动漫帝国/dmtd.json】
+[202/431] 节点测试... ✅ [常规健康] -> [自定义202] 【GitHub-1kingStar/tvboxdd/e6bee19dc90864e8ccd7a11660b88d7fdf2e4a22/香雅情.json】
+[203/431] 节点测试... ✅ [常规健康] -> [自定义203] 【GitHub-bingoguo93/pac/71b3bff67c23177856b3550ece1a8f5a5358f245/tv.json】
+[204/431] 节点测试... ✅ [常规健康] -> [自定义204] 【GitHub-rrzt/tvbox_collect/84d6fb4523e9482b2e5ea69033de83cfada5cf30/aa999ok/CK/009/XC.json】
+[205/431] 节点测试... ✅ [常规健康] -> [自定义205] 【GitHub-hjcmx/c/e242f3671ab6ac5a254d404a08264ffa7357c0c8/1225.json】
+[206/431] 节点测试... ✅ [常规健康] -> [自定义206] 【GitHub-tlswch/htguozu616/c2e6717b8a15c705717b0302d9686eeb8bf231d2/config.json】
+[207/431] 节点测试... ✅ [常规健康] -> [自定义207] 【GitHub-24090144d/tv/0fe40dfae7f23a9253038644537b41a627bcd3ae/doc/dc/ok/肥猫.json】
+[208/431] 节点测试... ✅ [常规健康] -> [自定义208] 【GitHub-wzxxcz/cc1/c6d08d3f4f1be75475612d0912ead10382d27e29/sgdc11-3/小米/xiaomi.json】
+[209/431] 节点测试... ✅ [常规健康] -> [自定义209] 【GitHub-wzxxcz/cc1/c6d08d3f4f1be75475612d0912ead10382d27e29/sgdc11-2/svip/svip.json】
+[210/431] 节点测试... ✅ [常规健康] -> [自定义210] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc10-2/PizazzGY/PizazzGY.json】
+[211/431] 节点测试... ✅ [常规健康] -> [自定义211] 【GitHub-wzxxcz/cc1/c6d08d3f4f1be75475612d0912ead10382d27e29/sgdc2502-2/欧歌/ouge.json】
+[212/431] 节点测试... ✅ [常规健康] -> [自定义212] 【GitHub-guo012577/hipy-drpy/3305f7834c2f821535bc6eec9b791367e9f1310e/aa999ok/CK/009/XC.json】
+[213/431] 节点测试... ✅ [常规健康] -> [自定义213] 【GitHub-clover168/tianwei/101bd2da089361e652fce199b1f357b5501dd0f3/【摸鱼线路】/api.json】
+[214/431] 节点测试... ✅ [常规健康] -> [自定义214] 【GitHub-hkwgit2024/TVBOXZD2/2f1be5add00b6a12488b916e46c3797612543e57/box/dj.json】
+[215/431] 节点测试... ✅ [常规健康] -> [自定义215] 【GitHub-yxxyun/boxgao/a1116de44f6753e12054937b3b608843c230581c/XYQ.json】
+[216/431] 节点测试... ✅ [常规健康] -> [自定义216] 【GitHub-cloudcat214/TV/2661f26fe61052a07eff68e41c832675762188a5/Tv.json】
+[217/431] 节点测试... ✅ [常规健康] -> [自定义217] 【GitHub-aaabbbxu/tvboxs/b4a5b99248958eaa7fc8badd0406589518c321fe/boxs.json】
+[218/431] 节点测试... ✅ [常规健康] -> [自定义218] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc11-2/短剧场/duanju.json】
+[219/431] 节点测试... ✅ [常规健康] -> [自定义219] 【GitHub-madaodei/xx/c1e2963336f957e59caf52752a11358e9a79e3bc/888.json】
+[220/431] 节点测试... ✅ [常规健康] -> [自定义220] 【GitHub-gyfandzd/gyf1/a850aa5485b06de193661d5df44e88d2445161db/Text/9nt.json】
+[221/431] 节点测试... ✅ [常规健康] -> [自定义221] 【GitHub-shizi8402/TVboxo/6b748a96b339c219206283bd244fd92884d0d386/Text/9nt.json】
+[222/431] 节点测试... ✅ [常规健康] -> [自定义222] 【GitHub-sonikill22/box/fa1454cf8a9717343a0a4b8f381a7fa0ab013d10/Text/9nt.json】
+[223/431] 节点测试... ✅ [常规健康] -> [自定义223] 【GitHub-sonikill22/box1/7a2134336cfd61c7e29d67c12c70bf1da59cedd9/Text/9nt.json】
+[224/431] 节点测试... ✅ [常规健康] -> [自定义224] 【GitHub-quyujiayyds/191/1fcd099a75d9655fa02c554fddce10033bf1e9d8/Text/9nt.json】
+[225/431] 节点测试... ✅ [常规健康] -> [自定义225] 【GitHub-heroaku/TBO/633e6b95fe4e074e679d720078a5460361c070cc/FM/0821.json】
+[226/431] 节点测试... ✅ [常规健康] -> [自定义226] 【GitHub-leilingzero/hipy_wssq1/0e67bbe926ff9b703096ca2623b917d55ded3394/aa999ok/CK/009/XC.json】
+[227/431] 节点测试... ✅ [常规健康] -> [自定义227] 【GitHub-a1b1cnmh/a1b1cnmh.github.io/c93cff1c188e18fbb311514b28818d1d726aa077/hcr/100086.json】
+[228/431] 节点测试... ✅ [常规健康] -> [自定义228] 【GitHub-Tuh553/tvconfig/42fb17aabe480f9bf624b6eff40c03253c898297/xyq/XYQ.json】
+[229/431] 节点测试... ✅ [常规健康] -> [自定义229] 【GitHub-xiaoshuangdashu/yang/60773669fda7574ca795d778d1e5f11dc7cf5d68/box.json】
+[230/431] 节点测试... ✅ [常规健康] -> [自定义230] 【GitHub-heroaku/TBO/633e6b95fe4e074e679d720078a5460361c070cc/NMB/ninemui.json】
+[231/431] 节点测试... ✅ [常规健康] -> [自定义231] 【GitHub-wzxxcz/cc1/c6d08d3f4f1be75475612d0912ead10382d27e29/sgdc10-2/PizazzGY/PizazzGY.json】
+[232/431] 节点测试... ✅ [常规健康] -> [自定义232] 【GitHub-webtat/thank/5e271cc59525d72cddd8c177fd1affa5b3f68143/thank/t.json】
+[233/431] 节点测试... ✅ [常规健康] -> [自定义233] 【GitHub-ellondoa/ziyong/666e9594c355f8917339ee6b42270e5df838bedd/ymzn.json】
+[234/431] 节点测试... ✅ [常规健康] -> [自定义234] 【GitHub-fcd666520/ys2025/72b4a38bcab73e1f27d7bf140c078a65b39d591d/666/fenghejar.json】
+[235/431] 节点测试... ✅ [常规健康] -> [自定义235] 【GitHub-wzxxcz/cc1/c6d08d3f4f1be75475612d0912ead10382d27e29/sgdc11-2/短剧场/duanju.json】
+[236/431] 节点测试... ✅ [常规健康] -> [自定义236] 【GitHub-vueCcc/TW/d72859ce9cadd672e285060dfe909903d566ca18/本地【讴歌线路】/api.json】
+[237/431] 节点测试... ✅ [常规健康] -> [自定义237] 【GitHub-madaodei/xx/c1e2963336f957e59caf52752a11358e9a79e3bc/qiaoji 0719.json】
+[238/431] 节点测试... ✅ [常规健康] -> [自定义238] 【GitHub-24090144d/tv/0fe40dfae7f23a9253038644537b41a627bcd3ae/doc/sc100/🍎鼎小苹果.json】
+[239/431] 节点测试... ✅ [常规健康] -> [自定义239] 【GitHub-dsp-19/tvbox/de028c6b1353745b6e75b4c2a465f8eac4834b9d/sgdc/俊佬/junlao.json】
+[240/431] 节点测试... ✅ [常规健康] -> [自定义240] 【GitHub-purepoorx/my-favorite-repos/35dcd691cf124ad8b6f76e5f531916047dfff7b5/github.com_yuanwangokk-1_TV-BOX_main/备份/tvboxTW/本地【南风线路】/api.json】
+[241/431] 节点测试... ✅ [常规健康] -> [自定义241] 【GitHub-vqzhanshi/tbx/6ab6c80733b64abf78b65cb6a6990dd4d5ed079e/cc/api.json】
+[242/431] 节点测试... ✅ [常规健康] -> [自定义242] 【GitHub-liuwei0704/66/deaf2039c725f0839fa53d7ad18d343b8cb831cb/147852.json】
+[243/431] 节点测试... ✅ [常规健康] -> [自定义243] 【GitHub-liuwei0704/3322/0905c6505f4b64ad074472a0efb464612e0367c5/147852.json】
+[244/431] 节点测试... ✅ [常规健康] -> [自定义244] 【GitHub-huangxiaozhou/tvbox/cb9bb7f06cfa146fbc8c35190818e95f34986316/147852.json】
+[245/431] 节点测试... ✅ [常规健康] -> [自定义245] 【GitHub-xiongjian83/TvBox/e4aeee835df0e7739792a3142b0995a854886540/19.json】
+[246/431] 节点测试... ✅ [常规健康] -> [自定义246] 【GitHub-alantang1977/X/05b1444761b0e098682098f5bd0cae837cdfc48d/vox.json】
+[247/431] 节点测试... ✅ [常规健康] -> [自定义247] 【GitHub-xiongjian83/TvBox/e4aeee835df0e7739792a3142b0995a854886540/18/19.json】
+[248/431] 节点测试... ✅ [常规健康] -> [自定义248] 【GitHub-xiongjian83/TvBox/e4aeee835df0e7739792a3142b0995a854886540/X.json】
+[249/431] 节点测试... ✅ [常规健康] -> [自定义249] 【GitHub-ne7359/tvurl/338e1d25cbb7d8b6d7b74af49735aba680339fcb/js.json】
+[250/431] 节点测试... ✅ [常规健康] -> [自定义250] 【GitHub-ncnc8388/ncnc8388.github.io/a2393db319e4190e11e86deb8f6285654cd99ea1/0730.json】
+[251/431] 节点测试... ✅ [常规健康] -> [自定义251] 【GitHub-tlswch/zzzgit_zzz/917133e72850323a9b1c23861327d620d0d651c6/T4.json】
+[252/431] 节点测试... ✅ [常规健康] -> [自定义252] 【GitHub-hainanpc/TVB/3b4b5eb6dbff65c87ec819a6d3b42866fe31bafa/top93.json】
+[253/431] 节点测试... ✅ [常规健康] -> [自定义253] 【GitHub-rrzt/tvbox_collect/f9e107cd9d16567e81013f699d5751830d1c2b37/yuanwangokkTV-BOX18/备份/tvboxTW/本地【天微VIP线】/api.json】
+[254/431] 节点测试... ✅ [常规健康] -> [自定义254] 【GitHub-rrzt/tvbox_collect/f9e107cd9d16567e81013f699d5751830d1c2b37/aa999ok/CK/009/XC.json】
+[255/431] 节点测试... ✅ [常规健康] -> [自定义255] 【GitHub-liuwei0704/66/ffff7d92bb68816d9834e4d0a7a1095b483d0de7/147852.json】
+[256/431] 节点测试... ✅ [常规健康] -> [自定义256] 【GitHub-franksun1211/TVBOX/e980b074353fea9ac54fd293980d2cfa6170960a/sun.json】
+[257/431] 节点测试... ✅ [常规健康] -> [自定义257] 【GitHub-franksun1211/TVBOX/e980b074353fea9ac54fd293980d2cfa6170960a/box.json】
+[258/431] 节点测试... ✅ [常规健康] -> [自定义258] 【GitHub-xiongjian83/TvBox/db53fa2310f0a353d43c325251e6ee555ddb7d8a/19.json】
+[259/431] 节点测试... ✅ [常规健康] -> [自定义259] 【GitHub-alantang1977/X/e7b24ccf28eef2014580e8c85757162cc06c5285/vox.json】
+[260/431] 节点测试... ✅ [常规健康] -> [自定义260] 【GitHub-franksun1211/TVBOX/e980b074353fea9ac54fd293980d2cfa6170960a/0706.json】
+[261/431] 节点测试... ✅ [常规健康] -> [自定义261] 【GitHub-xiongjian83/TvBox/db53fa2310f0a353d43c325251e6ee555ddb7d8a/18/19.json】
+[262/431] 节点测试... ✅ [常规健康] -> [自定义262] 【GitHub-franksun1211/TVBOX/e980b074353fea9ac54fd293980d2cfa6170960a/2K24.json】
+[263/431] 节点测试... ✅ [常规健康] -> [自定义263] 【GitHub-xiongjian83/TvBox/db53fa2310f0a353d43c325251e6ee555ddb7d8a/X.json】
+[264/431] 节点测试... ✅ [常规健康] -> [自定义264] 【GitHub-ne7359/tvurl/7a3723609499b5b8b7c126a720711770e7a79b33/js.json】
+[265/431] 节点测试... ✅ [常规健康] -> [自定义265] 【GitHub-ncnc8388/ncnc8388.github.io/faf3d11d13635c3c90a7c5964a113f8b20129b79/0730.json】
+[266/431] 节点测试... ✅ [常规健康] -> [自定义266] 【GitHub-asxs123/mytvboxlist/a30c1494a549894ecd34fe89c0d3bbad4e19ee14/tvboxlist/二哈线路.json】
+[267/431] 节点测试... ✅ [常规健康] -> [自定义267] 【GitHub-hkuc/tvbox-config/2873832170ee7aafbb89b4fd85a5bf9e09569750/tv/2/yw88075_js.json】
+[268/431] 节点测试... ✅ [常规健康] -> [自定义268] 【GitHub-woshishiq1/hipy-drpy2/7a2b9a127b95d827d36a9724b82e0725e605b171/aa999ok/CK/009/XC.json】
+[269/431] 节点测试... ✅ [常规健康] -> [自定义269] 【GitHub-rrzt/tvbox_collect/3d6139ab5b1703bc43de53694da4acd029cdde36/yuanwangokkTV-BOX18/备份/tvboxTW/本地【天微VIP线】/api.json】
+[270/431] 节点测试... ✅ [常规健康] -> [自定义270] 【GitHub-amazonjdshop/tv/d567d68f85157f73023dd89f87a8ea67028410c2/XYQ.json】
+[271/431] 节点测试... ✅ [常规健康] -> [自定义271] 【GitHub-rrzt/tvbox_collect/3d6139ab5b1703bc43de53694da4acd029cdde36/aa999ok/CK/009/XC.json】
+[272/431] 节点测试... ✅ [常规健康] -> [自定义272] 【GitHub-xiongjian83/TvBox/518340d006d4437b5797b641564667199dccc5dc/19.json】
+[273/431] 节点测试... ✅ [常规健康] -> [自定义273] 【GitHub-xiongjian83/TvBox/518340d006d4437b5797b641564667199dccc5dc/18/19.json】
+[274/431] 节点测试... ✅ [常规健康] -> [自定义274] 【GitHub-xiongjian83/TvBox/518340d006d4437b5797b641564667199dccc5dc/X.json】
+[275/431] 节点测试... ✅ [常规健康] -> [自定义275] 【GitHub-Nesciasnenion/helloworld/3ee565c12b3cc54101cc32f6ef44f9e206f6fbc1/tvbox.json】
+[276/431] 节点测试... ✅ [常规健康] -> [自定义276] 【GitHub-ne7359/tvurl/9040e51bf79d63558ebed4845e06a14faab19b34/js.json】
+[277/431] 节点测试... ✅ [常规健康] -> [自定义277] 【GitHub-lubin776/tvbox/e8f55ac3995b8b42262d27de0c970bcc882031a5/0/b.json】
+[278/431] 节点测试... ✅ [常规健康] -> [自定义278] 【GitHub-swhtv/111/4d92780319d1f8cbd3cd49a9a0591315364f0bac/fj.json】
+[279/431] 节点测试... ✅ [常规健康] -> [自定义279] 【GitHub-ncnc8388/ncnc8388.github.io/eb4b37992538b6693ae5dc476784ce378d637395/0730.json】
+[280/431] 节点测试... ✅ [常规健康] -> [自定义280] 【GitHub-lubin776/0/71fedc8256d10761cc33808fcb147a30f3578685/0/x5.json】
+[281/431] 节点测试... ✅ [常规健康] -> [自定义281] 【GitHub-lubin776/tvbox/e8f55ac3995b8b42262d27de0c970bcc882031a5/gx/0.json】
+[282/431] 节点测试... ✅ [常规健康] -> [自定义282] 【GitHub-swhtv/111/4d92780319d1f8cbd3cd49a9a0591315364f0bac/jl2.json】
+[283/431] 节点测试... ✅ [常规健康] -> [自定义283] 【GitHub-asxs123/mytvboxlist/5b4333df47f068ef3457c7a2947f8745e9b7e8ce/tvboxlist/二哈线路.json】
+[284/431] 节点测试... ✅ [常规健康] -> [自定义284] 【GitHub-hkuc/tvbox-config/5749130d6b63bf7c84b8fcbf758aa86e6d3b5bd4/tv/2/yw88075_js.json】
+[285/431] 节点测试... ✅ [常规健康] -> [自定义285] 【GitHub-xtv1/atv/e3868429cf2c74a021925ad65a16a3452ede3664/YJL/jthl.json】
+[286/431] 节点测试... ✅ [常规健康] -> [自定义286] 【GitHub-amazonjdshop/tv/acf817fc25919b59c0d9c6d455d065828858f8b5/XYQ.json】
+[287/431] 节点测试... ✅ [常规健康] -> [自定义287] 【GitHub-yunwushang/sz1/1c245fed899117a47ede3660172c4c53ab5db7ba/云仓0.json】
+[288/431] 节点测试... ✅ [常规健康] -> [自定义288] 【GitHub-xiongjian83/TvBox/2940f1c20c67325b4410becdf82a7f3872a316a3/19.json】
+[289/431] 节点测试... ✅ [常规健康] -> [自定义289] 【GitHub-alantang1977/X/4f263102ba66b9067149cca2a6c92019a236b494/vox.json】
+[290/431] 节点测试... ✅ [常规健康] -> [自定义290] 【GitHub-xiongjian83/TvBox/2940f1c20c67325b4410becdf82a7f3872a316a3/18/19.json】
+[291/431] 节点测试... ✅ [常规健康] -> [自定义291] 【GitHub-xiongjian83/TvBox/2940f1c20c67325b4410becdf82a7f3872a316a3/X.json】
+[292/431] 节点测试... ✅ [常规健康] -> [自定义292] 【GitHub-yueer59/Tvbox/74ee1483b67e73767fe67bf3a2d4d6502c4cafcd/api2.json】
+[293/431] 节点测试... ✅ [常规健康] -> [自定义293] 【GitHub-ncnc8388/ncnc8388.github.io/4c26cfebd0ef8853781210fe47d3b17ca97c2a09/0730.json】
+[294/431] 节点测试... ✅ [常规健康] -> [自定义294] 【GitHub-lubin776/0/d2a42c30f918f655f996178de7d7f8b874e8b3f0/0/x5.json】
+[295/431] 节点测试... ✅ [常规健康] -> [自定义295] 【GitHub-hkuc/tvbox-config/593a15823e213974a5da80ead9da030f08ec5665/tv/2/yw88075_js.json】
+[296/431] 节点测试... ✅ [常规健康] -> [自定义296] 【GitHub-lubin776/0/d2a42c30f918f655f996178de7d7f8b874e8b3f0/0/x4pro4k.json】
+[297/431] 节点测试... ✅ [常规健康] -> [自定义297] 【GitHub-woshishiq1/hipy-drpy2/b1253bec8fcb13f4029e638fe78b4ed47737f90f/FGBLH/Web鱼壳海豚566.json】
+[298/431] 节点测试... ✅ [常规健康] -> [自定义298] 【GitHub-amazonjdshop/tv/b0057d02e01e7010b900f2ef409b51ead41b8e00/XYQ.json】
+[299/431] 节点测试... ✅ [常规健康] -> [自定义299] 【GitHub-liuwei0704/66/bacad4c5a841e0339aa79dea62cd6abf71b51791/147852.json】
+[300/431] 节点测试... ✅ [常规健康] -> [自定义300] 【GitHub-xiongjian83/TvBox/e7b08c22eb933c68e41557b207f895a9ab865473/19.json】
+[301/431] 节点测试... ✅ [常规健康] -> [自定义301] 【GitHub-xiongjian83/TvBox/e7b08c22eb933c68e41557b207f895a9ab865473/18/19.json】
+[302/431] 节点测试... ✅ [常规健康] -> [自定义302] 【GitHub-xiongjian83/TvBox/e7b08c22eb933c68e41557b207f895a9ab865473/X.json】
+[303/431] 节点测试... ✅ [常规健康] -> [自定义303] 【GitHub-ne7359/tvurl/994da0ea5fc3fbb29f7f0cca458b974fe638aefa/js.json】
+[304/431] 节点测试... ✅ [常规健康] -> [自定义304] 【GitHub-ncnc8388/ncnc8388.github.io/922a0d9ec810830c14939113f9b10dd1703c755a/0730.json】
+[305/431] 节点测试... ✅ [常规健康] -> [自定义305] 【GitHub-lubin776/0/c8adac2b0436953b534cbb43abe6245dceacbd3e/0/x5.json】
+[306/431] 节点测试... ✅ [常规健康] -> [自定义306] 【GitHub-520ad/tvbox/b2f8462bd7aec164c521610935a008cc38feca69/2.json】
+[307/431] 节点测试... ✅ [常规健康] -> [自定义307] 【GitHub-hl128k/tvbox/21476af76f510adf598e2f74150c3f96d05fd283/tv/1/xianyuyimu_一木自用.json】
+[308/431] 节点测试... ✅ [常规健康] -> [自定义308] 【GitHub-hkuc/tvbox-config/0ea284e088ef83f0f15f00804220dcb600d48d56/tv/2/yw88075_js.json】
+[309/431] 节点测试... ✅ [常规健康] -> [自定义309] 【GitHub-lubin776/0/c8adac2b0436953b534cbb43abe6245dceacbd3e/0/x4pro4k.json】
+[310/431] 节点测试... ✅ [常规健康] -> [自定义310] 【GitHub-amazonjdshop/tv/c329fb8b3690d757daf5871c0b830661948e11d3/XYQ.json】
+[311/431] 节点测试... ✅ [常规健康] -> [自定义311] 【GitHub-liuwei0704/66/ea6e4460e5887bf9c0daf9bb8e297745d5dcf4de/147852.json】
+[312/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源1] 【GitHub-FreeDTV/FreeD/2511407b95ec434cf5d9e65f36aac63141c4a7ba/box.json】
+[313/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源2] 【GitHub-alantang1977/X/9ee7f16887dd21a82be52ce26839d074c9b86e4f/py.json】
+[314/431] 节点测试... 🔞 [资源 - 命中"三级"] -> [资源3] 【GitHub-bluefriendCN/set/a901e6592b8687c3ff2a38ca10e68957f8773d2c/ma.json】
+[315/431] 节点测试... 🔞 [资源 - 命中"强奸乱伦"] -> [资源4] 【GitHub-dlgt7/TVbox-interface/97fe47b35445f485ee6f323e46f3a78eecec2464/jj.json】
+[316/431] 节点测试... 🔞 [资源 - 命中"成人"] -> [资源5] 【GitHub-cnnbgo/tvbox/f2afa9065deb1c2c2341df2776abdc6b02c5913f/x.json】
+[317/431] 节点测试... 🔞 [资源 - 命中"强奸乱伦"] -> [资源6] 【GitHub-13998394872/TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/PF.json】
+[318/431] 节点测试... 🔞 [资源 - 命中"麻豆"] -> [资源7] 【GitHub-s14685/tv/ba297bfa6cc669ab89a55dc8c543831af1c022c4/xc.json】
+[319/431] 节点测试... 🔞 [资源 - 命中"三级"] -> [资源8] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/6/18.json】
+[320/431] 节点测试... 🔞 [资源 - 命中"天美"] -> [资源9] 【GitHub-13998394872/TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/PG.json】
+[321/431] 节点测试... 🔞 [资源 - 命中"麻豆"] -> [资源10] 【GitHub-ediart/tvbox/f4f24a764639d22c40f6c5b1c72b187032fdf9a9/T4.json】
+[322/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源11] 【GitHub-alantang1977/pg/968c6287a357c3229f14fc0755d4f17a1c3c596f/jsm.json】
+[323/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源12] 【GitHub-Newtxin/tvbox/d07b4c987056fba4af1ce5ca7c139161c9b11972/0501.json】
+[324/431] 节点测试... 🔞 [资源 - 命中"成人"] -> [资源13] 【GitHub-xiaoxiaoxiaodeseyixia/see1see/64e63f1fcfe6aa032345df1033318b3553448723/looklook/TVbox/adult.json】
+[325/431] 节点测试... 🔞 [资源 - 命中"欧美精品"] -> [资源14] 【GitHub-nesszby/cla/e455a31e8eab0b57db32d8c7d7e7e09ac00baf84/vip.json】
+[326/431] 节点测试... 🔞 [资源 - 命中"少女"] -> [资源15] 【GitHub-Heiwk/YUlong/9f585b9b65362747b00d81c26a94cb0de90bbca8/ss/fm.json】
+[327/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源16] 【GitHub-AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/011/仅供测试.json】
+[328/431] 节点测试... 🔞 [资源 - 命中"欧美精品"] -> [资源17] 【GitHub-lyqnihao/m3u8/c9b1b2562342ce1e16494b719a2c7aa632c4dc2b/FGBLH/FG/海豚影视.json】
+[329/431] 节点测试... 🔞 [资源 - 命中"强奸乱伦"] -> [资源18] 【GitHub-wnddwc/daiweichun/164cc8054903fd8e79c4ba32efac9e2c22dc0597/daiweichun.json】
+[330/431] 节点测试... 🔞 [资源 - 命中"强奸乱伦"] -> [资源19] 【GitHub-wzxxcz/xcz202508281/76c4228891a958ae39000cbdb607b85f370f0250/jj.json】
+[331/431] 节点测试... 🔞 [资源 - 命中"强奸乱伦"] -> [资源20] 【GitHub-AlanTse1314/13998394872-TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/PF.json】
+[332/431] 节点测试... 🔞 [资源 - 命中"成人"] -> [资源21] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/DY2/FL1-4.json】
+[333/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源22] 【GitHub-KAN314go/23/086eed7e9132d9276853ff417d72062273ee1297/py.json】
+[334/431] 节点测试... 🔞 [资源 - 命中"天美"] -> [资源23] 【GitHub-AlanTse1314/13998394872-TVBox/b01776dccb8d49b6b8fca60657a95bfd84196d44/PG.json】
+[335/431] 节点测试... 🔞 [资源 - 命中"福利"] -> [资源24] 【GitHub-qgys/qgys/25685f6797f72759ac9ecf85006f4f7f2a2aa2c1/fm.json】
+[336/431] 节点测试... 🔞 [资源 - 命中"中文字幕"] -> [资源25] 【GitHub-13174771/tvboxlist/9b7cd3f60c7f568666713dfce80d09ab0beaf5bc/18+.json】
+[337/431] 节点测试... 🔞 [资源 - 命中"麻豆"] -> [资源26] 【GitHub-24090144d/tv/0fe40dfae7f23a9253038644537b41a627bcd3ae/xc.json】
+[338/431] 节点测试... 🔞 [资源 - 命中"SM"] -> [资源27] 【GitHub-hstsws/zy/9861fbfb4e8e08c6b51297b644a0c431894f0870/ysj/yeshijieB.json】
+[339/431] 节点测试... 🔞 [资源 - 命中"SM"] -> [资源28] 【GitHub-madaodei/xx/c1e2963336f957e59caf52752a11358e9a79e3bc/ysj/yeshijieB.json】
+[340/431] 节点测试... 🔞 [资源 - 命中"天美"] -> [资源29] 【GitHub-blackDawn-sun/tvbox/09fb04b0d179895bff2c5e0a1da228e757d261ee/sgdc1129/简影/zjys.json】
+[341/431] 节点测试... 🔞 [资源 - 命中"成人"] -> [资源30] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc10-3/道长/daozhang.json】
+[342/431] 节点测试... 🔞 [资源 - 命中"福利"] -> [资源31] 【GitHub-kxbperfect/kxb/206cc7460a71eaf40bc94394614fa617bd20b9b8/2.json】
+[343/431] 节点测试... 🔞 [资源 - 命中"成人"] -> [资源32] 【GitHub-wzxxcz/cc1/c6d08d3f4f1be75475612d0912ead10382d27e29/sgdc10-3/道长/daozhang.json】
+[344/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源33] 【GitHub-alantang1977/X/05b1444761b0e098682098f5bd0cae837cdfc48d/py.json】
+[345/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源34] 【GitHub-alantang1977/X/e7b24ccf28eef2014580e8c85757162cc06c5285/py.json】
+[346/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源35] 【GitHub-alantang1977/pg/bf9deed35eeeb5bbeebd606c1895fb8794833226/jsm.json】
+[347/431] 节点测试... 🔞 [资源 - 命中"欧美精品"] -> [资源36] 【GitHub-lyqnihao/m3u8/2b280505f62e210534dca77b93b025f0ae98620a/FGBLH/FG/海豚影视.json】
+[348/431] 节点测试... 🔞 [资源 - 命中"欧美精品"] -> [资源37] 【GitHub-lyqnihao/m3u8/b9c69e8762d05a0374d42e47c8502a33bda9fa45/FGBLH/FG/海豚影视.json】
+[349/431] 节点测试... 🔞 [资源 - 命中"三级"] -> [资源38] 【GitHub-bluefriendCN/set/cd0ea58350f4654054b5f452a76f39bba793448e/ma.json】
+[350/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源39] 【GitHub-alantang1977/pg/08047e18156a5b50f285cf3c0b7819020b148ae0/jsm.json】
+[351/431] 节点测试... 🔞 [资源 - 命中"欧美精品"] -> [资源40] 【GitHub-lyqnihao/m3u8/b8fdd320da91054e9f7f626c970890e593dec61a/FGBLH/FG/海豚影视.json】
+[352/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源41] 【GitHub-alantang1977/X/4f263102ba66b9067149cca2a6c92019a236b494/py.json】
+[353/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源42] 【GitHub-alantang1977/pg/7b8be7c1f4771362d001c690e873ff1d835d62fa/jsm.json】
+[354/431] 节点测试... 🔞 [资源 - 命中"欧美精品"] -> [资源43] 【GitHub-lyqnihao/m3u8/964e79c7c689265eb6a66171800799e8738f9e73/FGBLH/FG/海豚影视.json】
+[355/431] 节点测试... 🔞 [资源 - 命中"三级"] -> [资源44] 【GitHub-bluefriendCN/set/b13b87682417c2c9cbde7e41afcc1b9a2bbcdf6a/ma.json】
+[356/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源45] 【GitHub-alantang1977/pg/43253fb5d15fcfbb1dc9acdf3117fba49aca577b/jsm.json】
+[357/431] 节点测试... 🔞 [资源 - 命中"欧美精品"] -> [资源46] 【GitHub-lyqnihao/m3u8/d03b0b5ecfe7600eed6a11f6ff81dc11227b297a/FGBLH/FG/海豚影视.json】
+[358/431] 节点测试... ❌ [失效剔除] -> [剔除1] 【GitHub-xiongjian83/TvBox/d16a21043d9dd9cc3420643f2c7015b34b813e70/YZ.json】
+[359/431] 节点测试... ❌ [失效剔除] -> [剔除2] 【GitHub-muzi08168/leeTVBoxResource/1a08712c1c80bf64fb29daf2e058345c6a8f48cc/ziyou.json】
+[360/431] 节点测试... ❌ [失效剔除] -> [剔除3] 【GitHub-Sourav9063/ftp_searcher/39dff8249de3dcf86efc8b51ce635b4a92ec0950/globalMedia.json】
+[361/431] 节点测试... ❌ [失效剔除] -> [剔除4] 【GitHub-surgepro/sing-box-ruleset/ae89e6772bbccc47b1413a122f7a49aa4feaf387/rule/ProxyGFWlist.json】
+[362/431] 节点测试... ❌ [失效剔除] -> [剔除5] 【GitHub-arandomguyhere/Google-News-Scraper/b10b95ed7a3c2173e496168b9a73faa0bd58b558/archives/20250923_091456/news_20250923_091456.json】
+[363/431] 节点测试... ❌ [失效剔除] -> [剔除6] 【GitHub-meetyan/news/f7b0f4c6a89a19cfc10a76dcfa4d9cdae71e2daf/src/results/github-trending/2022-11-15.json】
+[364/431] 节点测试... ❌ [失效剔除] -> [剔除7] 【GitHub-moringspeaker/Play_Store_Spider/0188166eef2bce231d55bf8413cea4b893c88979/data/list_validity_285000-289999.json】
+[365/431] 节点测试... ❌ [失效剔除] -> [剔除8] 【GitHub-luma/webrtc/e541b4e11bcad83b881337eb09896f03943f6745/src/chromium/src/tools/perf/page_sets/alexa1-10000-urls.json】
+[366/431] 节点测试... ❌ [失效剔除] -> [剔除9] 【GitHub-xiongjian83/TvBox/e4aeee835df0e7739792a3142b0995a854886540/YZ.json】
+[367/431] 节点测试... ❌ [失效剔除] -> [剔除10] 【GitHub-arandomguyhere/Google-News-Scraper/ca82025de574e93df8a1585b4e639eccd9a95952/archives/20250923_091456/news_20250923_091456.json】
+[368/431] 节点测试... ❌ [失效剔除] -> [剔除11] 【GitHub-xiongjian83/TvBox/db53fa2310f0a353d43c325251e6ee555ddb7d8a/YZ.json】
+[369/431] 节点测试... ❌ [失效剔除] -> [剔除12] 【GitHub-arandomguyhere/Google-News-Scraper/1fe414be3fea1712150e77ad7d6b525360ec2221/archives/20250923_091456/news_20250923_091456.json】
+[370/431] 节点测试... ❌ [失效剔除] -> [剔除13] 【GitHub-cs3306/singbox-rules-converter/2f05b6a99b6331cd142e1ca14e746377fa4a14d6/output/acl4ssr/Providers/ProxyGFWlist.json】
+[371/431] 节点测试... ❌ [失效剔除] -> [剔除14] 【GitHub-xiongjian83/TvBox/518340d006d4437b5797b641564667199dccc5dc/YZ.json】
+[372/431] 节点测试... ❌ [失效剔除] -> [剔除15] 【GitHub-Centralmatrix3/Matrix-io/b91b52f017561f9394ecbcc50547660a7de9e68e/Sing-box/Ruleset/GreatFireWall.json】
+[373/431] 节点测试... ❌ [失效剔除] -> [剔除16] 【GitHub-arandomguyhere/Google-News-Scraper/fc50f3fd4f3dcc873db9b8b14b7c8c9327eb4240/archives/20250923_091456/news_20250923_091456.json】
+[374/431] 节点测试... ❌ [失效剔除] -> [剔除17] 【GitHub-XiaoHaiSly/proxy/fa07caab8c054d5918344c7bb5d8a2018d97c0bb/rules/singbox/domain/gfw.json】
+[375/431] 节点测试... ❌ [失效剔除] -> [剔除18] 【GitHub-xiongjian83/TvBox/2940f1c20c67325b4410becdf82a7f3872a316a3/YZ.json】
+[376/431] 节点测试... ❌ [失效剔除] -> [剔除19] 【GitHub-arandomguyhere/Google-News-Scraper/d3df89dfacdf9f167f0989a80a7c7eb04d405ebb/archives/20250923_091456/news_20250923_091456.json】
+[377/431] 节点测试... ❌ [失效剔除] -> [剔除20] 【GitHub-xiongjian83/TvBox/e7b08c22eb933c68e41557b207f895a9ab865473/YZ.json】
+[378/431] 节点测试... ❌ [失效剔除] -> [剔除21] 【GitHub-arandomguyhere/Google-News-Scraper/87dd8ecd4c973ce31bc5952e77598fd86a2273b1/archives/20250923_091456/news_20250923_091456.json】
+[379/431] 节点测试... ✅ [常规健康] -> [自定义312] 【GitHub-whj-me/tvbox/df1c955f26f01cc02473549b85af9cccf0099eec/tvbox.json】
+[380/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源47] 【GitHub-alantang1977/X/424c6c5af466c057eb53f29a965c7cae54a65770/py.json】
+[381/431] 节点测试... ✅ [常规健康] -> [自定义313] 【GitHub-xiongjian83/TvBox/7bd7baa6c3f8ba572b0d3a9a0b3cd89266247287/19.json】
+[382/431] 节点测试... ❌ [失效剔除] -> [剔除22] 【GitHub-xiongjian83/TvBox/7bd7baa6c3f8ba572b0d3a9a0b3cd89266247287/YZ.json】
+[383/431] 节点测试... ✅ [常规健康] -> [自定义314] 【GitHub-alantang1977/X/424c6c5af466c057eb53f29a965c7cae54a65770/vox.json】
+[384/431] 节点测试... ✅ [常规健康] -> [自定义315] 【GitHub-xiongjian83/TvBox/7bd7baa6c3f8ba572b0d3a9a0b3cd89266247287/18/19.json】
+[385/431] 节点测试... ✅ [常规健康] -> [自定义316] 【GitHub-xiongjian83/TvBox/7bd7baa6c3f8ba572b0d3a9a0b3cd89266247287/X.json】
+[386/431] 节点测试... ✅ [常规健康] -> [自定义317] 【GitHub-ne7359/tvurl/1e1346aa9821b940bedf05bccb8ebeeb00845a46/js.json】
+[387/431] 节点测试... ✅ [常规健康] -> [自定义318] 【GitHub-ncnc8388/ncnc8388.github.io/ad5afeacd860466493196579613113d164e045b3/0730.json】
+[388/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源48] 【GitHub-alantang1977/pg/0d76fb3c294620f3f15cc7bcecbce5cbaa59449f/jsm.json】
+[389/431] 节点测试... ✅ [常规健康] -> [自定义319] 【GitHub-lubin776/0/8a6271e81571323eaaeab3e449ef869a96b9f86e/0/x5.json】
+[390/431] 节点测试... ✅ [常规健康] -> [自定义320] 【GitHub-jiusanzhou/tvbox/dd362236c66cea9cc8c6259015e97928ac8c9872/docs/tvbox.json】
+[391/431] 节点测试... ✅ [常规健康] -> [自定义321] 【GitHub-asxs123/mytvboxlist/b6a8901c23428474544e9e6c811a5b8957786b93/tvboxlist/二哈线路.json】
+[392/431] 节点测试... ✅ [常规健康] -> [自定义322] 【GitHub-hkuc/tvbox-config/aa4f767458e514f10e658da3dc480899f11bf5ef/tv/2/yw88075_js.json】
+[393/431] 节点测试... ❌ [失效剔除] -> [剔除23] 【GitHub-arandomguyhere/Google-News-Scraper/b91c2bfd5a9f15096efc7f066e7a65bd0b63ab69/archives/20250923_091456/news_20250923_091456.json】
+[394/431] 节点测试... ✅ [常规健康] -> [自定义323] 【GitHub-AlanTse1314/TVBox-18/1d88f6dc52a0de19a217d477f131cd8afd963f43/tvbox2.json】
+[395/431] 节点测试... ✅ [常规健康] -> [自定义324] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/text/tvbox18.json】
+[396/431] 节点测试... ✅ [常规健康] -> [自定义325] 【GitHub-guot55/yg/d0879e44c351c7ede52709ae4194a0c1f692855f/box原.json】
+[397/431] 节点测试... 🔞 [资源 - 命中"AV"] -> [资源49] 【GitHub-jishitang/Tool/f09f66bcfec4f045b8be0155e61d81c387ba3e01/gat3/gat/xin(1).json】
+[398/431] 节点测试... ✅ [常规健康] -> [自定义326] 【GitHub-jiyi039/jiyi039.github.io/51183e95228e1e82742a837c8c1be065c12af146/yuan/tv.json】
+[399/431] 节点测试... ✅ [常规健康] -> [自定义327] 【GitHub-lubin776/0/8a6271e81571323eaaeab3e449ef869a96b9f86e/0/x4pro4k.json】
+[400/431] 节点测试... ✅ [常规健康] -> [自定义328] 【GitHub-tv189ymail/2023/733130dbe85b924da2d7092be1e69b97bb877cce/BDB/DY1/BPXMY.json】
+[401/431] 节点测试... 🔞 [资源 - 命中"欧美精品"] -> [资源50] 【GitHub-lyqnihao/m3u8/9e27fdad6ab2f4ca1dae82291f36f097550192a6/FGBLH/FG/海豚影视.json】
+[402/431] 节点测试... ✅ [常规健康] -> [自定义329] 【GitHub-lyliangyuxuan/-/38bf82454bf3c2fd6218e44ddbefb9308075b52a/json/xyq230228.json】
+[403/431] 节点测试... ✅ [常规健康] -> [自定义330] 【GitHub-murong507/ls125781003/3d99eacd7562167996215eef43932a5390f9b143/潇洒/api.json】
+[404/431] 节点测试... ✅ [常规健康] -> [自定义331] 【GitHub-xiaojie-001/123/437e7a01a2ae808c5913101cfe795ca79b201e99/index.json】
+[405/431] 节点测试... ✅ [常规健康] -> [自定义332] 【GitHub-tvbox-ku/box/552d8f531de0e958bc32d748f2f2290649bd0644/xyq/xiangyaqing.json】
+[406/431] 节点测试... ✅ [常规健康] -> [自定义333] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc2503-1/南风/nanfeng.json】
+[407/431] 节点测试... ✅ [常规健康] -> [自定义334] 【GitHub-1697366715/duankou/4c7153f5bf67beaf43c1877104d3e8ec9dd55c19/tvbox/摸鱼儿/api.json】
+[408/431] 节点测试... ✅ [常规健康] -> [自定义335] 【GitHub-q7954/gg/a05e0219fe0b4d539e5cba3089ec5ded6af46d12/0739.json】
+[409/431] 节点测试... ✅ [常规健康] -> [自定义336] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc2501-1/星辰/xingchen.json】
+[410/431] 节点测试... ✅ [常规健康] -> [自定义337] 【GitHub-woniuxs/PG/2890bdbe03f5e2471dae3ab29719a39baff58a3c/jsm.json】
+[411/431] 节点测试... ✅ [常规健康] -> [自定义338] 【GitHub-woshishiq1/hipy-drpy2/220985605400f0d8da4d051ba60b82caacd85d42/aa999ok/CK/009/XC.json】
+[412/431] 节点测试... ✅ [常规健康] -> [自定义339] 【GitHub-chenlong622/LIVE/eb706e395f948f95505b1e8bba337516453440c0/pg/jsm.json】
+[413/431] 节点测试... ✅ [常规健康] -> [自定义340] 【GitHub-winterxg/tvb/2aaa0dba2abaedd286408d8fc220b5f33928afb7/Text/pyn.json】
+[414/431] 节点测试... ✅ [常规健康] -> [自定义341] 【GitHub-amazonjdshop/tv/8cc8e517f36c7ec66b13457a34c419b0bc8f8831/XYQ.json】
+[415/431] 节点测试... ✅ [常规健康] -> [自定义342] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc12-1/svip/svip.json】
+[416/431] 节点测试... ✅ [常规健康] -> [自定义343] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc11-1/svip/svip.json】
+[417/431] 节点测试... ✅ [常规健康] -> [自定义344] 【GitHub-xwyjc/aliluya/1836cfe8d4919c246f6cf0f0b6a05065c197f4ed/me.json】
+[418/431] 节点测试... ✅ [常规健康] -> [自定义345] 【GitHub-xiaoxuwenzi/1/f7b8b2c966979da6d77913bebebbea6e68c6ec9a/ptest.json】
+[419/431] 节点测试... ✅ [常规健康] -> [自定义346] 【GitHub-gzj7003/szdxudpy/73fda43ac3fbec81f2d70e7e7e34ea0208dc37ae/jsm.json】
+[420/431] 节点测试... ✅ [常规健康] -> [自定义347] 【GitHub-lilivan1986/clash/1e524d9b4e5a284aa9cf572b5129b2631684f1f7/5.json】
+[421/431] 节点测试... ✅ [常规健康] -> [自定义348] 【GitHub-xtxk110/ys/5d4386e3a53fea1ebe7f9311e15da7c31c08d371/m2.json】
+[422/431] 节点测试... ✅ [常规健康] -> [自定义349] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc12-1/天微/tianwei.json】
+[423/431] 节点测试... ✅ [常规健康] -> [自定义350] 【GitHub-softup1/s1/3df9aec62d76ad784ed09943eb525660fe9c43ea/meowcf.json】
+[424/431] 节点测试... ✅ [常规健康] -> [自定义351] 【GitHub-slasjh/cy/70c71a2e0e672c5fc765df225e6702e4ff4500b5/Lite-副本260425.json】
+[425/431] 节点测试... ✅ [常规健康] -> [自定义352] 【GitHub-wuheng18/whzy/fceaf105288e2320d7a159cb4066dc458cae0db8/小米/xiaomi.json】
+[426/431] 节点测试... ✅ [常规健康] -> [自定义353] 【GitHub-Soledadrs/jiekou/606200413054f2e24f995e3c404393782db27704/soledadTVbox/json/PG线路.json】
+[427/431] 节点测试... ✅ [常规健康] -> [自定义354] 【GitHub-aweib888/zyclash/a591a58f6b6ab31bbbdc49f3d28d100b85967f5f/dkyt_clash/t4TV源.json】
+[428/431] 节点测试... 🔞 [资源 - 命中"福利"] -> [资源51] 【GitHub-wzxxcz/cc2/69a82826d07a252c280263682b0c4cd71e237b0f/sgdc2502-3/向雅晴/xiangyaqing.json】
+[429/431] 节点测试... ✅ [常规健康] -> [自定义355] 【GitHub-hkwgit2024/TVBOXZD2/2f1be5add00b6a12488b916e46c3797612543e57/box/lilun.json】
+[430/431] 节点测试... ✅ [常规健康] -> [自定义356] 【GitHub-yunwushang/sz1/1c245fed899117a47ede3660172c4c53ab5db7ba/芸雾.json】
+[431/431] 节点测试... ✅ [常规健康] -> [自定义357] 【GitHub-lcn0107/MyTV/59fdc74db11c5aeeb21f086de29c4c4951bceff1/ziyong.json】
+
+=================== 聚合排查报告 (严格标准 + 极速响应) ===================
+✅ 存活常规健康源: 357 个
+🔞 存活成人隔离源: 51 个
+❌ 确认完全无法访问/非TVBox结构: 23 个
+------------------------------------------------------------------
+💾 保存最新纯净文件: multisite_proxy_latest.json (357 条)
+💾 保存最新纯净文件: multisite_github_latest.json (357 条)
+💾 保存最新纯净文件: multisite_adult_proxy_latest.json (51 条)
+💾 保存最新纯净文件: multisite_adult_github_latest.json (51 条)
+💾 保存最新纯净文件: multisite_invalid_proxy_latest.json (23 条)
+💾 保存最新纯净文件: multisite_invalid_github_latest.json (23 条)
