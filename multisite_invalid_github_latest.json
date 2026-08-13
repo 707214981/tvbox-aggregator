@@ -199,6 +199,14 @@
     {
       "name": "[剔除50] 【GitHub-cs3306/singbox-rules-converter/890915d32e0f54f326c82791066250f557ac4a2c/output/acl4ssr/Providers/ProxyGFWlist.json】",
       "url": "https://raw.githubusercontent.com/cs3306/singbox-rules-converter/890915d32e0f54f326c82791066250f557ac4a2c/output/acl4ssr/Providers/ProxyGFWlist.json"
+    },
+    {
+      "name": "[剔除51] 【GitHub-xiongjian83/TvBox/9319ffccdc021acc943252e1ff564fc89ddb489a/YZ.json】",
+      "url": "https://raw.githubusercontent.com/xiongjian83/TvBox/9319ffccdc021acc943252e1ff564fc89ddb489a/YZ.json"
+    },
+    {
+      "name": "[剔除52] 【GitHub-arandomguyhere/Google-News-Scraper/43c0dcf05bba04cbc83d910e68374348e0a0a931/archives/20250923_091456/news_20250923_091456.json】",
+      "url": "https://raw.githubusercontent.com/arandomguyhere/Google-News-Scraper/43c0dcf05bba04cbc83d910e68374348e0a0a931/archives/20250923_091456/news_20250923_091456.json"
     }
   ]
 }
