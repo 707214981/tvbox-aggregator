@@ -4883,6 +4883,594 @@
     {
       "name": "[剔除1221] 【GitHub-cs3306/singbox-rules-converter/b5e1c1507014f892648a7898204443b0886cbdd4/output/blackmatrix7/Proxy/Proxy_Classical_No_Resolve.json】",
       "url": "https://raw.githubusercontent.com/cs3306/singbox-rules-converter/b5e1c1507014f892648a7898204443b0886cbdd4/output/blackmatrix7/Proxy/Proxy_Classical_No_Resolve.json"
+    },
+    {
+      "name": "[剔除1222] 【GitHub-jiusanzhou/tvbox/51519aa49036602063a30d77cfb386e35dd41483/tvbox.json】",
+      "url": "https://raw.githubusercontent.com/jiusanzhou/tvbox/51519aa49036602063a30d77cfb386e35dd41483/tvbox.json"
+    },
+    {
+      "name": "[剔除1223] 【GitHub-jiusanzhou/tvbox/51519aa49036602063a30d77cfb386e35dd41483/docs/tvbox.json】",
+      "url": "https://raw.githubusercontent.com/jiusanzhou/tvbox/51519aa49036602063a30d77cfb386e35dd41483/docs/tvbox.json"
+    },
+    {
+      "name": "[剔除1224] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/jsm.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/jsm.json"
+    },
+    {
+      "name": "[剔除1225] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/xiaosa/api.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/xiaosa/api.json"
+    },
+    {
+      "name": "[剔除1226] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/XYQ.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/XYQ.json"
+    },
+    {
+      "name": "[剔除1227] 【GitHub-Lightconer/TVBox-Sources/3385b258e93c433994b5441e264c11483288930e/output/tvbox.json】",
+      "url": "https://raw.githubusercontent.com/Lightconer/TVBox-Sources/3385b258e93c433994b5441e264c11483288930e/output/tvbox.json"
+    },
+    {
+      "name": "[剔除1228] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/367.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/367.json"
+    },
+    {
+      "name": "[剔除1229] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/0821.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/0821.json"
+    },
+    {
+      "name": "[剔除1230] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/dianshi.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/dianshi.json"
+    },
+    {
+      "name": "[剔除1231] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/cat/tjs/18_tv_config.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/cat/tjs/18_tv_config.json"
+    },
+    {
+      "name": "[剔除1232] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/cat/tjs/tv_config.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/cat/tjs/tv_config.json"
+    },
+    {
+      "name": "[剔除1233] 【GitHub-qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/tools/jsm.json】",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/156b3bcbfe21ca5a82d7492fe1ec096ccc61c349/tools/jsm.json"
+    },
+    {
+      "name": "[剔除1234] 【GitHub-ediart/tvbox/4136fb21f743e673eab706b701f3695c0695c484/TVBoxOSC/tvbox/xs.json】",
+      "url": "https://raw.githubusercontent.com/ediart/tvbox/4136fb21f743e673eab706b701f3695c0695c484/TVBoxOSC/tvbox/xs.json"
+    },
+    {
+      "name": "[剔除1235] 【GitHub-niuber/niuber/82ce895dde2766ccd43e7c024593781d8f5e113d/tvbox/TVBoxOSC/tvbox/api.json】",
+      "url": "https://raw.githubusercontent.com/niuber/niuber/82ce895dde2766ccd43e7c024593781d8f5e113d/tvbox/TVBoxOSC/tvbox/api.json"
+    },
+    {
+      "name": "[剔除1236] 【GitHub-woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/ediart/TVBoxOSC/tvbox/xs.json】",
+      "url": "https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/ediart/TVBoxOSC/tvbox/xs.json"
+    },
+    {
+      "name": "[剔除1237] 【GitHub-ediart/tvbox/4136fb21f743e673eab706b701f3695c0695c484/TVBoxOSC/tvbox/api.json】",
+      "url": "https://raw.githubusercontent.com/ediart/tvbox/4136fb21f743e673eab706b701f3695c0695c484/TVBoxOSC/tvbox/api.json"
+    },
+    {
+      "name": "[剔除1238] 【GitHub-gqzh568/iptv/3fb11e7e779a70fe83abc1f3d7675b1138f8446d/tvbox.json】",
+      "url": "https://raw.githubusercontent.com/gqzh568/iptv/3fb11e7e779a70fe83abc1f3d7675b1138f8446d/tvbox.json"
+    },
+    {
+      "name": "[剔除1239] 【GitHub-woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/ediart/TVBoxOSC/tvbox/api.json】",
+      "url": "https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/ediart/TVBoxOSC/tvbox/api.json"
+    },
+    {
+      "name": "[剔除1240] 【GitHub-alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/py.json"
+    },
+    {
+      "name": "[剔除1241] 【GitHub-xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/ediart/TVBoxOSC/tvbox/xs.json】",
+      "url": "https://raw.githubusercontent.com/xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/ediart/TVBoxOSC/tvbox/xs.json"
+    },
+    {
+      "name": "[剔除1242] 【GitHub-alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/X.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/X.json"
+    },
+    {
+      "name": "[剔除1243] 【GitHub-alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/live/rihou.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/live/rihou.json"
+    },
+    {
+      "name": "[剔除1244] 【GitHub-alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/vox.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/vox.json"
+    },
+    {
+      "name": "[剔除1245] 【GitHub-xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/ediart/TVBoxOSC/tvbox/api.json】",
+      "url": "https://raw.githubusercontent.com/xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/ediart/TVBoxOSC/tvbox/api.json"
+    },
+    {
+      "name": "[剔除1246] 【GitHub-alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/fish.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/9397c8846c03cfb0518a2abdaf5238e318e3ad76/fish.json"
+    },
+    {
+      "name": "[剔除1247] 【GitHub-bluefriendCN/set/428b13426b4a0f0fa68199a48c2359dcd9e8689c/ma.json】",
+      "url": "https://raw.githubusercontent.com/bluefriendCN/set/428b13426b4a0f0fa68199a48c2359dcd9e8689c/ma.json"
+    },
+    {
+      "name": "[剔除1248] 【GitHub-xyg2233/PizazzXS/f39b0bc1fffbdd72f2ac8e145367c7eb65971f9a/单线路文件/TVBoxOSC/tvbox/api.json】",
+      "url": "https://raw.githubusercontent.com/xyg2233/PizazzXS/f39b0bc1fffbdd72f2ac8e145367c7eb65971f9a/单线路文件/TVBoxOSC/tvbox/api.json"
+    },
+    {
+      "name": "[剔除1249] 【GitHub-cluntop/tvbox/3a450d7959fefc2959bafe83997d8cb6acbf1832/jsm.json】",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/3a450d7959fefc2959bafe83997d8cb6acbf1832/jsm.json"
+    },
+    {
+      "name": "[剔除1250] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/js.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/js.json"
+    },
+    {
+      "name": "[剔除1251] 【GitHub-bluefriendCN/set/428b13426b4a0f0fa68199a48c2359dcd9e8689c/md.json】",
+      "url": "https://raw.githubusercontent.com/bluefriendCN/set/428b13426b4a0f0fa68199a48c2359dcd9e8689c/md.json"
+    },
+    {
+      "name": "[剔除1252] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/戏曲音乐/api.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/戏曲音乐/api.json"
+    },
+    {
+      "name": "[剔除1253] 【GitHub-n3rddd/N3RD/313924112355fbff9af93709155115e17dee031e/JN/lem.json】",
+      "url": "https://raw.githubusercontent.com/n3rddd/N3RD/313924112355fbff9af93709155115e17dee031e/JN/lem.json"
+    },
+    {
+      "name": "[剔除1254] 【GitHub-cspoh123/tvbox/cbab4e0ed2ed85254c3010e277f8addaf9dc35ba/cst.json】",
+      "url": "https://raw.githubusercontent.com/cspoh123/tvbox/cbab4e0ed2ed85254c3010e277f8addaf9dc35ba/cst.json"
+    },
+    {
+      "name": "[剔除1255] 【GitHub-lubin776/0/3fd7b072ae16a480594ae76cfaec40735650977a/0/x4b.json】",
+      "url": "https://raw.githubusercontent.com/lubin776/0/3fd7b072ae16a480594ae76cfaec40735650977a/0/x4b.json"
+    },
+    {
+      "name": "[剔除1256] 【GitHub-rrzt/tvbox_collect/3d6139ab5b1703bc43de53694da4acd029cdde36/ediart/TVBoxOSC/tvbox/xs.json】",
+      "url": "https://raw.githubusercontent.com/rrzt/tvbox_collect/3d6139ab5b1703bc43de53694da4acd029cdde36/ediart/TVBoxOSC/tvbox/xs.json"
+    },
+    {
+      "name": "[剔除1257] 【GitHub-rrzt/tvbox_collect/3d6139ab5b1703bc43de53694da4acd029cdde36/ediart/TVBoxOSC/tvbox/api.json】",
+      "url": "https://raw.githubusercontent.com/rrzt/tvbox_collect/3d6139ab5b1703bc43de53694da4acd029cdde36/ediart/TVBoxOSC/tvbox/api.json"
+    },
+    {
+      "name": "[剔除1258] 【GitHub-leilingzero/hipy_wssq1/0e67bbe926ff9b703096ca2623b917d55ded3394/ediart/TVBoxOSC/tvbox/xs.json】",
+      "url": "https://raw.githubusercontent.com/leilingzero/hipy_wssq1/0e67bbe926ff9b703096ca2623b917d55ded3394/ediart/TVBoxOSC/tvbox/xs.json"
+    },
+    {
+      "name": "[剔除1259] 【GitHub-KAN314go/21/b5cc32395163088d0af833ab7c2bbaf37fb4045e/ediart/TVBoxOSC/tvbox/xs.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/21/b5cc32395163088d0af833ab7c2bbaf37fb4045e/ediart/TVBoxOSC/tvbox/xs.json"
+    },
+    {
+      "name": "[剔除1260] 【GitHub-leilingzero/hipy_wssq1/0e67bbe926ff9b703096ca2623b917d55ded3394/ediart/TVBoxOSC/tvbox/api.json】",
+      "url": "https://raw.githubusercontent.com/leilingzero/hipy_wssq1/0e67bbe926ff9b703096ca2623b917d55ded3394/ediart/TVBoxOSC/tvbox/api.json"
+    },
+    {
+      "name": "[剔除1261] 【GitHub-KAN314go/21/b5cc32395163088d0af833ab7c2bbaf37fb4045e/ediart/TVBoxOSC/tvbox/api.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/21/b5cc32395163088d0af833ab7c2bbaf37fb4045e/ediart/TVBoxOSC/tvbox/api.json"
+    },
+    {
+      "name": "[剔除1262] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/jsm.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/jsm.json"
+    },
+    {
+      "name": "[剔除1263] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/xiaosa/api.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/xiaosa/api.json"
+    },
+    {
+      "name": "[剔除1264] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/XYQ.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/XYQ.json"
+    },
+    {
+      "name": "[剔除1265] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/367.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/367.json"
+    },
+    {
+      "name": "[剔除1266] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/0821.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/0821.json"
+    },
+    {
+      "name": "[剔除1267] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/dianshi.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/dianshi.json"
+    },
+    {
+      "name": "[剔除1268] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/cat/tjs/18_tv_config.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/cat/tjs/18_tv_config.json"
+    },
+    {
+      "name": "[剔除1269] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/cat/tjs/tv_config.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/cat/tjs/tv_config.json"
+    },
+    {
+      "name": "[剔除1270] 【GitHub-ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/tools/jsm.json】",
+      "url": "https://raw.githubusercontent.com/ne7359/tvurl/e6ee337f7b566ca006a6066566500a84038a22a5/tools/jsm.json"
+    },
+    {
+      "name": "[剔除1271] 【GitHub-woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/yjl/ysm.json】",
+      "url": "https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/yjl/ysm.json"
+    },
+    {
+      "name": "[剔除1272] 【GitHub-ok8023/TVbox-interface/07e195a88a871a1e1a9d70f6109fc3448b3f3675/kodi实例.json】",
+      "url": "https://raw.githubusercontent.com/ok8023/TVbox-interface/07e195a88a871a1e1a9d70f6109fc3448b3f3675/kodi实例.json"
+    },
+    {
+      "name": "[剔除1273] 【GitHub-dlgt7/TVbox-interface/d6d73c5ab011895d6d32ff6243b4926370022f1e/XBPQ文件夹/xbpq成品.json】",
+      "url": "https://raw.githubusercontent.com/dlgt7/TVbox-interface/d6d73c5ab011895d6d32ff6243b4926370022f1e/XBPQ文件夹/xbpq成品.json"
+    },
+    {
+      "name": "[剔除1274] 【GitHub-maoystv/6/1f33cb63cfae73246bfb97c7ec5036c1f17e4171/000.json】",
+      "url": "https://raw.githubusercontent.com/maoystv/6/1f33cb63cfae73246bfb97c7ec5036c1f17e4171/000.json"
+    },
+    {
+      "name": "[剔除1275] 【GitHub-YJL20190405/TVBOX/45e64bd492c201b23584a00bc843ba31612d4e4c/tvbox18.json】",
+      "url": "https://raw.githubusercontent.com/YJL20190405/TVBOX/45e64bd492c201b23584a00bc843ba31612d4e4c/tvbox18.json"
+    },
+    {
+      "name": "[剔除1276] 【GitHub-xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/YJL/py/ysm.json】",
+      "url": "https://raw.githubusercontent.com/xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/YJL/py/ysm.json"
+    },
+    {
+      "name": "[剔除1277] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/lib/B站少儿半本地化.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/lib/B站少儿半本地化.json"
+    },
+    {
+      "name": "[剔除1278] 【GitHub-Toperlock/sing-box-geosite/31800f5c241bba14eaa46d81d06374d5bc5c1879/rule/gfw.json】",
+      "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/31800f5c241bba14eaa46d81d06374d5bc5c1879/rule/gfw.json"
+    },
+    {
+      "name": "[剔除1279] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/lib/x4半本地化.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/lib/x4半本地化.json"
+    },
+    {
+      "name": "[剔除1280] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/lib/x4pro半本地化.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/lib/x4pro半本地化.json"
+    },
+    {
+      "name": "[剔除1281] 【GitHub-child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/99188.json】",
+      "url": "https://raw.githubusercontent.com/child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/99188.json"
+    },
+    {
+      "name": "[剔除1282] 【GitHub-senshinya/singbox_ruleset/f1c8a2e29371e9dd3bb2603263b8c0ef6e9158fd/rule/Proxy/Proxy.json】",
+      "url": "https://raw.githubusercontent.com/senshinya/singbox_ruleset/f1c8a2e29371e9dd3bb2603263b8c0ef6e9158fd/rule/Proxy/Proxy.json"
+    },
+    {
+      "name": "[剔除1283] 【GitHub-jingyi251/a/c7b4db37e6dde27094652d8afbb47dc37dd14cf1/fm.json】",
+      "url": "https://raw.githubusercontent.com/jingyi251/a/c7b4db37e6dde27094652d8afbb47dc37dd14cf1/fm.json"
+    },
+    {
+      "name": "[剔除1284] 【GitHub-KAN314go/23/c8e707408b6e50c37497104c3f7428545f89359b/py.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/23/c8e707408b6e50c37497104c3f7428545f89359b/py.json"
+    },
+    {
+      "name": "[剔除1285] 【GitHub-Centralmatrix3/Matrix-io/c4afe7bc8b69ad21004f9d25dd13b9b39f868aca/Ruleset/Sing-box/Global.json】",
+      "url": "https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/c4afe7bc8b69ad21004f9d25dd13b9b39f868aca/Ruleset/Sing-box/Global.json"
+    },
+    {
+      "name": "[剔除1286] 【GitHub-sc550/tv/3d9c3206e532350210103b6c8d18c3a201fd576e/tv.json】",
+      "url": "https://raw.githubusercontent.com/sc550/tv/3d9c3206e532350210103b6c8d18c3a201fd576e/tv.json"
+    },
+    {
+      "name": "[剔除1287] 【GitHub-sc550/tv/3d9c3206e532350210103b6c8d18c3a201fd576e/api.json】",
+      "url": "https://raw.githubusercontent.com/sc550/tv/3d9c3206e532350210103b6c8d18c3a201fd576e/api.json"
+    },
+    {
+      "name": "[剔除1288] 【GitHub-sc550/tv/3d9c3206e532350210103b6c8d18c3a201fd576e/tvyd.json】",
+      "url": "https://raw.githubusercontent.com/sc550/tv/3d9c3206e532350210103b6c8d18c3a201fd576e/tvyd.json"
+    },
+    {
+      "name": "[剔除1289] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/王二小/api.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/王二小/api.json"
+    },
+    {
+      "name": "[剔除1290] 【GitHub-sc550/tv/3d9c3206e532350210103b6c8d18c3a201fd576e/tvdx.json】",
+      "url": "https://raw.githubusercontent.com/sc550/tv/3d9c3206e532350210103b6c8d18c3a201fd576e/tvdx.json"
+    },
+    {
+      "name": "[剔除1291] 【GitHub-jingyi251/a/c7b4db37e6dde27094652d8afbb47dc37dd14cf1/m.json】",
+      "url": "https://raw.githubusercontent.com/jingyi251/a/c7b4db37e6dde27094652d8afbb47dc37dd14cf1/m.json"
+    },
+    {
+      "name": "[剔除1292] 【GitHub-KAN314go/23/c8e707408b6e50c37497104c3f7428545f89359b/live/rihou.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/23/c8e707408b6e50c37497104c3f7428545f89359b/live/rihou.json"
+    },
+    {
+      "name": "[剔除1293] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/x4all.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/x4all.json"
+    },
+    {
+      "name": "[剔除1294] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/肥猫/ext/lab.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/肥猫/ext/lab.json"
+    },
+    {
+      "name": "[剔除1295] 【GitHub-child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/367.json】",
+      "url": "https://raw.githubusercontent.com/child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/367.json"
+    },
+    {
+      "name": "[剔除1296] 【GitHub-yilishawk/js/d8df701d357406ccbcdaaa392ca515a14ac47d2a/index.json】",
+      "url": "https://raw.githubusercontent.com/yilishawk/js/d8df701d357406ccbcdaaa392ca515a14ac47d2a/index.json"
+    },
+    {
+      "name": "[剔除1297] 【GitHub-accvoid/rptv/3da74b7d7532e431283010dbeb76f8e48351ff0e/alantang1977/X.json】",
+      "url": "https://raw.githubusercontent.com/accvoid/rptv/3da74b7d7532e431283010dbeb76f8e48351ff0e/alantang1977/X.json"
+    },
+    {
+      "name": "[剔除1298] 【GitHub-child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/0825.json】",
+      "url": "https://raw.githubusercontent.com/child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/0825.json"
+    },
+    {
+      "name": "[剔除1299] 【GitHub-child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/js.json】",
+      "url": "https://raw.githubusercontent.com/child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/js.json"
+    },
+    {
+      "name": "[剔除1300] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/jsm.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/jsm.json"
+    },
+    {
+      "name": "[剔除1301] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/xiaosa/api.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/xiaosa/api.json"
+    },
+    {
+      "name": "[剔除1302] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/XYQ.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/XYQ.json"
+    },
+    {
+      "name": "[剔除1303] 【GitHub-lg-yyds/tt123/b8e27a83c1e2dd9ddc1d592a19155978f8a9534c/JN/lem.json】",
+      "url": "https://raw.githubusercontent.com/lg-yyds/tt123/b8e27a83c1e2dd9ddc1d592a19155978f8a9534c/JN/lem.json"
+    },
+    {
+      "name": "[剔除1304] 【GitHub-lg-yyds/tt123/b8e27a83c1e2dd9ddc1d592a19155978f8a9534c/JN/tv.json】",
+      "url": "https://raw.githubusercontent.com/lg-yyds/tt123/b8e27a83c1e2dd9ddc1d592a19155978f8a9534c/JN/tv.json"
+    },
+    {
+      "name": "[剔除1305] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/367.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/367.json"
+    },
+    {
+      "name": "[剔除1306] 【GitHub-lg-yyds/tt123/b8e27a83c1e2dd9ddc1d592a19155978f8a9534c/JN/ttt.json】",
+      "url": "https://raw.githubusercontent.com/lg-yyds/tt123/b8e27a83c1e2dd9ddc1d592a19155978f8a9534c/JN/ttt.json"
+    },
+    {
+      "name": "[剔除1307] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/0821.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/0821.json"
+    },
+    {
+      "name": "[剔除1308] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/dianshi.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/dianshi.json"
+    },
+    {
+      "name": "[剔除1309] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/cat/tjs/18_tv_config.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/cat/tjs/18_tv_config.json"
+    },
+    {
+      "name": "[剔除1310] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/cat/tjs/tv_config.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/cat/tjs/tv_config.json"
+    },
+    {
+      "name": "[剔除1311] 【GitHub-yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/tools/jsm.json】",
+      "url": "https://raw.githubusercontent.com/yxxyun/boxqist/8a43f1fc9eccf22d9f974e8f61da212e691eb400/tools/jsm.json"
+    },
+    {
+      "name": "[剔除1312] 【GitHub-woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/yjl/py/ysm.json】",
+      "url": "https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/yjl/py/ysm.json"
+    },
+    {
+      "name": "[剔除1313] 【GitHub-child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/0827.json】",
+      "url": "https://raw.githubusercontent.com/child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/0827.json"
+    },
+    {
+      "name": "[剔除1314] 【GitHub-woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/yjl/jthl.json】",
+      "url": "https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/1f2b5a4956fe0fdce40da655c27cae4428b64db5/yjl/jthl.json"
+    },
+    {
+      "name": "[剔除1315] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/小虎斑/api.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/小虎斑/api.json"
+    },
+    {
+      "name": "[剔除1316] 【GitHub-yanghanhanyingshi/abcd/9a24417eb2daf2356fb20e83da4807ce8e42e564/tvbox/Web鱼壳海豚常规23.json】",
+      "url": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/9a24417eb2daf2356fb20e83da4807ce8e42e564/tvbox/Web鱼壳海豚常规23.json"
+    },
+    {
+      "name": "[剔除1317] 【GitHub-Learn231227/TVbox-interface/86da1c42d4c065cca750b2a2042446bf4f29a053/kodi实例.json】",
+      "url": "https://raw.githubusercontent.com/Learn231227/TVbox-interface/86da1c42d4c065cca750b2a2042446bf4f29a053/kodi实例.json"
+    },
+    {
+      "name": "[剔除1318] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/潇洒/api.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/潇洒/api.json"
+    },
+    {
+      "name": "[剔除1319] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/lib/x4all半本地化.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/lib/x4all半本地化.json"
+    },
+    {
+      "name": "[剔除1320] 【GitHub-wliqi495-create/jaychouqq/d7680247beba6be007fa98f0b53d75b768558ad8/nanfeng/api.json】",
+      "url": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/d7680247beba6be007fa98f0b53d75b768558ad8/nanfeng/api.json"
+    },
+    {
+      "name": "[剔除1321] 【GitHub-xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/YJL/ysm.json】",
+      "url": "https://raw.githubusercontent.com/xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/YJL/ysm.json"
+    },
+    {
+      "name": "[剔除1322] 【GitHub-Tyaoo/picker/0d8bdd1f217f8e9c4ee9651d585406cf341bf871/archive/tmp/2025-06-20.json】",
+      "url": "https://raw.githubusercontent.com/Tyaoo/picker/0d8bdd1f217f8e9c4ee9651d585406cf341bf871/archive/tmp/2025-06-20.json"
+    },
+    {
+      "name": "[剔除1323] 【GitHub-chh818/chh818.github.io/04b61ae8234ef414eaa631cbc515a4942aad15f0/1009.json】",
+      "url": "https://raw.githubusercontent.com/chh818/chh818.github.io/04b61ae8234ef414eaa631cbc515a4942aad15f0/1009.json"
+    },
+    {
+      "name": "[剔除1324] 【GitHub-MISP/misp-warninglists/11793dc7a0a926e2ab551ecba8df7da12330bc5d/lists/cloudflare-top10k/list.json】",
+      "url": "https://raw.githubusercontent.com/MISP/misp-warninglists/11793dc7a0a926e2ab551ecba8df7da12330bc5d/lists/cloudflare-top10k/list.json"
+    },
+    {
+      "name": "[剔除1325] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/dancang/小C单仓影视.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/dancang/小C单仓影视.json"
+    },
+    {
+      "name": "[剔除1326] 【GitHub-saajnn/TVbox-interface-1/a064d816f6b0a48e22ab9b350ab447eeb315219c/kodi实例.json】",
+      "url": "https://raw.githubusercontent.com/saajnn/TVbox-interface-1/a064d816f6b0a48e22ab9b350ab447eeb315219c/kodi实例.json"
+    },
+    {
+      "name": "[剔除1327] 【GitHub-xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/YJL/jthl.json】",
+      "url": "https://raw.githubusercontent.com/xtv1/atv/9ea236101c35a6de38001ad0d6ba215f5eafbbee/YJL/jthl.json"
+    },
+    {
+      "name": "[剔除1328] 【GitHub-zzq1234567890/tvbox1/2d10d2f1434042db61a2edd5d3640a42101ba72d/jsm.json】",
+      "url": "https://raw.githubusercontent.com/zzq1234567890/tvbox1/2d10d2f1434042db61a2edd5d3640a42101ba72d/jsm.json"
+    },
+    {
+      "name": "[剔除1329] 【GitHub-AlanTse1314/TVbox-interface/07e195a88a871a1e1a9d70f6109fc3448b3f3675/kodi实例.json】",
+      "url": "https://raw.githubusercontent.com/AlanTse1314/TVbox-interface/07e195a88a871a1e1a9d70f6109fc3448b3f3675/kodi实例.json"
+    },
+    {
+      "name": "[剔除1330] 【GitHub-child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/0826.json】",
+      "url": "https://raw.githubusercontent.com/child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/0826.json"
+    },
+    {
+      "name": "[剔除1331] 【GitHub-caliph21/caliph21.github.io/4b778ab6c5c43b3a5a2221dc97442ad3470ff608/xiaosa/api.json】",
+      "url": "https://raw.githubusercontent.com/caliph21/caliph21.github.io/4b778ab6c5c43b3a5a2221dc97442ad3470ff608/xiaosa/api.json"
+    },
+    {
+      "name": "[剔除1332] 【GitHub-caliph21/xiaosa/b1fd75b5081c57461be98c016ce8788a14f9ad86/xiaosa/api.json】",
+      "url": "https://raw.githubusercontent.com/caliph21/xiaosa/b1fd75b5081c57461be98c016ce8788a14f9ad86/xiaosa/api.json"
+    },
+    {
+      "name": "[剔除1333] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/tv少儿.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/tv少儿.json"
+    },
+    {
+      "name": "[剔除1334] 【GitHub-shizi8402/TVbox-interfac/84bb6cb917f46e804ab6e701fafce2516dce003b/kodi实例.json】",
+      "url": "https://raw.githubusercontent.com/shizi8402/TVbox-interfac/84bb6cb917f46e804ab6e701fafce2516dce003b/kodi实例.json"
+    },
+    {
+      "name": "[剔除1335] 【GitHub-huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/x4.json】",
+      "url": "https://raw.githubusercontent.com/huangxinyueus/dby/94f9808a453ffaa8cd9160982e7b5945bba75863/DG/X4菠菜园/x4.json"
+    },
+    {
+      "name": "[剔除1336] 【GitHub-child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/one.json】",
+      "url": "https://raw.githubusercontent.com/child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/one.json"
+    },
+    {
+      "name": "[剔除1337] 【GitHub-child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/dianshi.json】",
+      "url": "https://raw.githubusercontent.com/child9527/tvbox/8b02a96a8765023d89dcabc37f9016795fd0a447/dianshi.json"
+    },
+    {
+      "name": "[剔除1338] 【GitHub-Nanxzi/myGitStar/a380442b349afec9afd06f7ed11f483807393ce1/repo_summaries.json】",
+      "url": "https://raw.githubusercontent.com/Nanxzi/myGitStar/a380442b349afec9afd06f7ed11f483807393ce1/repo_summaries.json"
+    },
+    {
+      "name": "[剔除1339] 【GitHub-1739518737/-/adac1187724da746216516305932752cc164d9c1/api.json】",
+      "url": "https://raw.githubusercontent.com/1739518737/-/adac1187724da746216516305932752cc164d9c1/api.json"
+    },
+    {
+      "name": "[剔除1340] 【GitHub-gengliye/tvbox/92f8c31cfaeffd8fa67e6f9b8f01f5bca4ad75cb/fj365.json】",
+      "url": "https://raw.githubusercontent.com/gengliye/tvbox/92f8c31cfaeffd8fa67e6f9b8f01f5bca4ad75cb/fj365.json"
+    },
+    {
+      "name": "[剔除1341] 【GitHub-w1a2n3g4b5o/wex/e27cd417a370aa28f3b21338677d030273d39304/api.json】",
+      "url": "https://raw.githubusercontent.com/w1a2n3g4b5o/wex/e27cd417a370aa28f3b21338677d030273d39304/api.json"
+    },
+    {
+      "name": "[剔除1342] 【GitHub-yunwushang/sz1/dc894b23e7833c017cdb1c1e85dc39006199a36d/云仓.json】",
+      "url": "https://raw.githubusercontent.com/yunwushang/sz1/dc894b23e7833c017cdb1c1e85dc39006199a36d/云仓.json"
+    },
+    {
+      "name": "[剔除1343] 【GitHub-yvor-liu/tvbox/889810bbd4783f072482b77d4ebf78e5ff699027/iy_merged.json】",
+      "url": "https://raw.githubusercontent.com/yvor-liu/tvbox/889810bbd4783f072482b77d4ebf78e5ff699027/iy_merged.json"
+    },
+    {
+      "name": "[剔除1344] 【GitHub-yunwushang/sz1/dc894b23e7833c017cdb1c1e85dc39006199a36d/云仓1.json】",
+      "url": "https://raw.githubusercontent.com/yunwushang/sz1/dc894b23e7833c017cdb1c1e85dc39006199a36d/云仓1.json"
+    },
+    {
+      "name": "[剔除1345] 【GitHub-Nanxzi/myGitStar/a380442b349afec9afd06f7ed11f483807393ce1/repo_categories.json】",
+      "url": "https://raw.githubusercontent.com/Nanxzi/myGitStar/a380442b349afec9afd06f7ed11f483807393ce1/repo_categories.json"
+    },
+    {
+      "name": "[剔除1346] 【GitHub-YJL20190405/TVBOX/45e64bd492c201b23584a00bc843ba31612d4e4c/测试.json】",
+      "url": "https://raw.githubusercontent.com/YJL20190405/TVBOX/45e64bd492c201b23584a00bc843ba31612d4e4c/测试.json"
+    },
+    {
+      "name": "[剔除1347] 【GitHub-jieray/drpy_dzlive/d1fd86b058940ad419716174b0db605f3e89c1dc/index.json】",
+      "url": "https://raw.githubusercontent.com/jieray/drpy_dzlive/d1fd86b058940ad419716174b0db605f3e89c1dc/index.json"
+    },
+    {
+      "name": "[剔除1348] 【GitHub-leotvgo/leojs/ee3d13d92cf5d33cf599347568b290202597ff43/index.json】",
+      "url": "https://raw.githubusercontent.com/leotvgo/leojs/ee3d13d92cf5d33cf599347568b290202597ff43/index.json"
+    },
+    {
+      "name": "[剔除1349] 【GitHub-junrzhu/junrzhu/0c6e5035404c166a3be4c845a844a24fb035374b/index.json】",
+      "url": "https://raw.githubusercontent.com/junrzhu/junrzhu/0c6e5035404c166a3be4c845a844a24fb035374b/index.json"
+    },
+    {
+      "name": "[剔除1350] 【GitHub-Dodotry/mvideo/cdadd8190fda1730cdce7f687832bb7f8844f8e3/cl.json】",
+      "url": "https://raw.githubusercontent.com/Dodotry/mvideo/cdadd8190fda1730cdce7f687832bb7f8844f8e3/cl.json"
+    },
+    {
+      "name": "[剔除1351] 【GitHub-Centralmatrix3/Ruleset/017d777b91f8163e63512a961bdaa1ea9431cb47/Singbox/Proxy/Proxy.json】",
+      "url": "https://raw.githubusercontent.com/Centralmatrix3/Ruleset/017d777b91f8163e63512a961bdaa1ea9431cb47/Singbox/Proxy/Proxy.json"
+    },
+    {
+      "name": "[剔除1352] 【GitHub-perfect-panel/rules/b421e4c1df736390ce46bfce13cad9a2687dd719/geo/geosite/gfw.json】",
+      "url": "https://raw.githubusercontent.com/perfect-panel/rules/b421e4c1df736390ce46bfce13cad9a2687dd719/geo/geosite/gfw.json"
+    },
+    {
+      "name": "[剔除1353] 【GitHub-sephiroth233/Tool/9b891039822ec42fadb44951624f93796f0a3972/sing-box/Rules/ProxyGFW.json】",
+      "url": "https://raw.githubusercontent.com/sephiroth233/Tool/9b891039822ec42fadb44951624f93796f0a3972/sing-box/Rules/ProxyGFW.json"
+    },
+    {
+      "name": "[剔除1354] 【GitHub-zggnh12345/ruleset/273c49374cd0ceb1792553632dce0927e7e30e28/rule/gfw.json】",
+      "url": "https://raw.githubusercontent.com/zggnh12345/ruleset/273c49374cd0ceb1792553632dce0927e7e30e28/rule/gfw.json"
+    },
+    {
+      "name": "[剔除1355] 【GitHub-zytnh/ruleset/2659af3883fc2e9a790d7f6b92de3f8425f5ddb2/rule/gfw.json】",
+      "url": "https://raw.githubusercontent.com/zytnh/ruleset/2659af3883fc2e9a790d7f6b92de3f8425f5ddb2/rule/gfw.json"
+    },
+    {
+      "name": "[剔除1356] 【GitHub-rentry00/sing-box-geosite3/ed6985f13fbdcb8c51f988f72c4a7741520474ab/rule/gfw.json】",
+      "url": "https://raw.githubusercontent.com/rentry00/sing-box-geosite3/ed6985f13fbdcb8c51f988f72c4a7741520474ab/rule/gfw.json"
+    },
+    {
+      "name": "[剔除1357] 【GitHub-idpj/geodata/1d1863d1452ee3070b696327e344e592ba0c4338/sing-box/geosite/geosite-gfw.json】",
+      "url": "https://raw.githubusercontent.com/idpj/geodata/1d1863d1452ee3070b696327e344e592ba0c4338/sing-box/geosite/geosite-gfw.json"
+    },
+    {
+      "name": "[剔除1358] 【GitHub-lztsgi/rules/edd82ea3c7f7177bb4529b1f9b04ab519b502db2/singbox/rule-set/other/gfw.json】",
+      "url": "https://raw.githubusercontent.com/lztsgi/rules/edd82ea3c7f7177bb4529b1f9b04ab519b502db2/singbox/rule-set/other/gfw.json"
+    },
+    {
+      "name": "[剔除1359] 【GitHub-W0n9CNer/sing-box-rule-set/4258b0378ecf8de6c980147fe39638427590cf17/rule/Proxy_Domain/Proxy_Domain.json】",
+      "url": "https://raw.githubusercontent.com/W0n9CNer/sing-box-rule-set/4258b0378ecf8de6c980147fe39638427590cf17/rule/Proxy_Domain/Proxy_Domain.json"
+    },
+    {
+      "name": "[剔除1360] 【GitHub-Hellium-M78/sing-rules/4da27bfa49ece5f146a0498069524ceae5c0131d/bm7/Proxy/Proxy.json】",
+      "url": "https://raw.githubusercontent.com/Hellium-M78/sing-rules/4da27bfa49ece5f146a0498069524ceae5c0131d/bm7/Proxy/Proxy.json"
+    },
+    {
+      "name": "[剔除1361] 【GitHub-cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/acl4ssr-providers/ProxyGFWlist.json】",
+      "url": "https://raw.githubusercontent.com/cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/acl4ssr-providers/ProxyGFWlist.json"
+    },
+    {
+      "name": "[剔除1362] 【GitHub-cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/acl4ssr/Providers/ProxyGFWlist.json】",
+      "url": "https://raw.githubusercontent.com/cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/acl4ssr/Providers/ProxyGFWlist.json"
+    },
+    {
+      "name": "[剔除1363] 【GitHub-W0n9CNer/sing-box-rule-set/4258b0378ecf8de6c980147fe39638427590cf17/rule/Proxy_Classical/Proxy_Classical.json】",
+      "url": "https://raw.githubusercontent.com/W0n9CNer/sing-box-rule-set/4258b0378ecf8de6c980147fe39638427590cf17/rule/Proxy_Classical/Proxy_Classical.json"
+    },
+    {
+      "name": "[剔除1364] 【GitHub-cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/adguard-dns-divert/foreign_domains.json】",
+      "url": "https://raw.githubusercontent.com/cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/adguard-dns-divert/foreign_domains.json"
+    },
+    {
+      "name": "[剔除1365] 【GitHub-cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/blackmatrix7/Proxy/Proxy_Classical.json】",
+      "url": "https://raw.githubusercontent.com/cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/blackmatrix7/Proxy/Proxy_Classical.json"
+    },
+    {
+      "name": "[剔除1366] 【GitHub-XiaoHaiSly/proxy/56385621cb2ab6ce2634a252f0d0b248b9267349/georules/singbox/domain/gfw.json】",
+      "url": "https://raw.githubusercontent.com/XiaoHaiSly/proxy/56385621cb2ab6ce2634a252f0d0b248b9267349/georules/singbox/domain/gfw.json"
+    },
+    {
+      "name": "[剔除1367] 【GitHub-Protonot/songbox/f402d5fc624f72d946427634bbb46a8259e3b7a2/ACL4SSR/Ruleset/ProxyGFWlist.json】",
+      "url": "https://raw.githubusercontent.com/Protonot/songbox/f402d5fc624f72d946427634bbb46a8259e3b7a2/ACL4SSR/Ruleset/ProxyGFWlist.json"
+    },
+    {
+      "name": "[剔除1368] 【GitHub-cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/blackmatrix7/Proxy/Proxy_Classical_No_Resolve.json】",
+      "url": "https://raw.githubusercontent.com/cs3306/singbox-rules-converter/8ce37b08cab35980af97f37e698ebb8ee44a5ff5/output/blackmatrix7/Proxy/Proxy_Classical_No_Resolve.json"
     }
   ]
 }
