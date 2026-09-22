@@ -1567,6 +1567,22 @@
     {
       "name": "[剔除392] 【GitHub-cs3306/singbox-rules-converter/04c9001fe6ad5fa16a060a56e0166ff2f1b97aca/output/blackmatrix7/Proxy/Proxy_Classical.json】",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/cs3306/singbox-rules-converter/04c9001fe6ad5fa16a060a56e0166ff2f1b97aca/output/blackmatrix7/Proxy/Proxy_Classical.json"
+    },
+    {
+      "name": "[剔除393] 【GitHub-teddyli18000/web-ingest/09cd08edce5149547980598509d5ed45793d03e3/github-trending/data/2024/06/11/trending.json】",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/teddyli18000/web-ingest/09cd08edce5149547980598509d5ed45793d03e3/github-trending/data/2024/06/11/trending.json"
+    },
+    {
+      "name": "[剔除394] 【GitHub-rentry00/sing-box-geosite3/dfeeed42bd6a923223b6ea0f619185dffb6674e4/rule/gfw.json】",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/rentry00/sing-box-geosite3/dfeeed42bd6a923223b6ea0f619185dffb6674e4/rule/gfw.json"
+    },
+    {
+      "name": "[剔除395] 【GitHub-arandomguyhere/Google-News-Scraper/96cc75f9012e8fa540b0a0d93c1956430f01d307/archives/20250923_091456/news_20250923_091456.json】",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/arandomguyhere/Google-News-Scraper/96cc75f9012e8fa540b0a0d93c1956430f01d307/archives/20250923_091456/news_20250923_091456.json"
+    },
+    {
+      "name": "[剔除396] 【GitHub-teddyli18000/web-ingest/09cd08edce5149547980598509d5ed45793d03e3/github-trending/data/2026/06/22/trending.json】",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/teddyli18000/web-ingest/09cd08edce5149547980598509d5ed45793d03e3/github-trending/data/2026/06/22/trending.json"
     }
   ]
 }
