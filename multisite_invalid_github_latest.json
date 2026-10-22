@@ -2507,6 +2507,22 @@
     {
       "name": "[剔除627] 【GitHub-arandomguyhere/Google-News-Scraper/0ea243932c6fab5bcb01a739d826b18427430766/archives/20250923_091456/news_20250923_091456.json】",
       "url": "https://raw.githubusercontent.com/arandomguyhere/Google-News-Scraper/0ea243932c6fab5bcb01a739d826b18427430766/archives/20250923_091456/news_20250923_091456.json"
+    },
+    {
+      "name": "[剔除628] 【GitHub-xiongjian83/TvBox/0861251f67c41c83c781c3704d8d3ceb7d4fd06b/YZ.json】",
+      "url": "https://raw.githubusercontent.com/xiongjian83/TvBox/0861251f67c41c83c781c3704d8d3ceb7d4fd06b/YZ.json"
+    },
+    {
+      "name": "[剔除629] 【GitHub-Reukix/ukix/5a2a8106271b9263499b4dd2011eb01240d0d24e/singbox/rule/Proxy.json】",
+      "url": "https://raw.githubusercontent.com/Reukix/ukix/5a2a8106271b9263499b4dd2011eb01240d0d24e/singbox/rule/Proxy.json"
+    },
+    {
+      "name": "[剔除630] 【GitHub-teddyli18000/web-ingest/5e1e253d3b8b0363bc0bddeb838a848bef8322ba/github-trending/data/2024/06/11/trending.json】",
+      "url": "https://raw.githubusercontent.com/teddyli18000/web-ingest/5e1e253d3b8b0363bc0bddeb838a848bef8322ba/github-trending/data/2024/06/11/trending.json"
+    },
+    {
+      "name": "[剔除631] 【GitHub-teddyli18000/web-ingest/5e1e253d3b8b0363bc0bddeb838a848bef8322ba/github-trending/data/2026/06/22/trending.json】",
+      "url": "https://raw.githubusercontent.com/teddyli18000/web-ingest/5e1e253d3b8b0363bc0bddeb838a848bef8322ba/github-trending/data/2026/06/22/trending.json"
     }
   ]
 }
