@@ -1645,112 +1645,276 @@
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/f453b480ebc8a4f339cca910a14ef434bcc503ec/raw/vod/history/2026-10-12/official.json"
     },
     {
-      "name": "[资源412] 【GitHub-jishitang/Tool/16fcb80d208584ffd807d8afe32df34a27ce855a/gat3/gat/xin(1).json】",
-      "url": "https://raw.githubusercontent.com/jishitang/Tool/16fcb80d208584ffd807d8afe32df34a27ce855a/gat3/gat/xin(1).json"
-    },
-    {
-      "name": "[资源413] 【GitHub-jishitang/Tool/663e8b8b52cdd89ac90e98585c51b9f1d88fc552/gat3/gat/xin(1).json】",
-      "url": "https://raw.githubusercontent.com/jishitang/Tool/663e8b8b52cdd89ac90e98585c51b9f1d88fc552/gat3/gat/xin(1).json"
-    },
-    {
-      "name": "[资源414] 【GitHub-jishitang/Tool/a62bfd64897a64c99c2b4cd5929b24e9c2b84be8/gat3/gat/xin(1).json】",
-      "url": "https://raw.githubusercontent.com/jishitang/Tool/a62bfd64897a64c99c2b4cd5929b24e9c2b84be8/gat3/gat/xin(1).json"
-    },
-    {
-      "name": "[资源415] 【GitHub-jishitang/Tool/b77ae02fff9173f0412a01b61597948980e06983/gat3/gat/xin(1).json】",
-      "url": "https://raw.githubusercontent.com/jishitang/Tool/b77ae02fff9173f0412a01b61597948980e06983/gat3/gat/xin(1).json"
-    },
-    {
-      "name": "[资源416] 【GitHub-jishitang/Tool/d8bbe84d8dd1ad18f7a5927cc2a5c34da6ddc075/gat3/gat/xin(1).json】",
-      "url": "https://raw.githubusercontent.com/jishitang/Tool/d8bbe84d8dd1ad18f7a5927cc2a5c34da6ddc075/gat3/gat/xin(1).json"
-    },
-    {
-      "name": "[资源417] 【GitHub-jishitang/Tool/2b277a2178831838b060dbd828863b810a800129/gat3/gat/xin(1).json】",
-      "url": "https://raw.githubusercontent.com/jishitang/Tool/2b277a2178831838b060dbd828863b810a800129/gat3/gat/xin(1).json"
-    },
-    {
-      "name": "[资源418] 【GitHub-yxy2015/1/8646e69d6e1e18651126e2693cd12bf61f26a3aa/MLH.json】",
-      "url": "https://raw.githubusercontent.com/yxy2015/1/8646e69d6e1e18651126e2693cd12bf61f26a3aa/MLH.json"
-    },
-    {
-      "name": "[资源419] 【GitHub-yxy2015/1/62012df73b7d800929d750e897d12afa288d2eb1/MLH.json】",
-      "url": "https://raw.githubusercontent.com/yxy2015/1/62012df73b7d800929d750e897d12afa288d2eb1/MLH.json"
-    },
-    {
-      "name": "[资源420] 【GitHub-yxy2015/1/9c076b9ca10d5a3fd671694adebfbd1d0b8010d5/MLH.json】",
-      "url": "https://raw.githubusercontent.com/yxy2015/1/9c076b9ca10d5a3fd671694adebfbd1d0b8010d5/MLH.json"
-    },
-    {
-      "name": "[资源421] 【GitHub-ls125781003/tbapi1/28d7d31c7219c8568b94357821fa0d960bf8bc23/WEX/api.json】",
-      "url": "https://raw.githubusercontent.com/ls125781003/tbapi1/28d7d31c7219c8568b94357821fa0d960bf8bc23/WEX/api.json"
-    },
-    {
-      "name": "[资源422] 【GitHub-ls125781003/tbapi1/62a765f6349d46b677373c42b48de79670930b9b/WEX/api.json】",
-      "url": "https://raw.githubusercontent.com/ls125781003/tbapi1/62a765f6349d46b677373c42b48de79670930b9b/WEX/api.json"
-    },
-    {
-      "name": "[资源423] 【GitHub-ls125781003/tbapi1/5d5d2a91908f530664e9ec923544f85b365bd1b7/PG/jsm.json】",
-      "url": "https://raw.githubusercontent.com/ls125781003/tbapi1/5d5d2a91908f530664e9ec923544f85b365bd1b7/PG/jsm.json"
-    },
-    {
-      "name": "[资源424] 【GitHub-ls125781003/tbapi1/5d5d2a91908f530664e9ec923544f85b365bd1b7/PG/api.json】",
-      "url": "https://raw.githubusercontent.com/ls125781003/tbapi1/5d5d2a91908f530664e9ec923544f85b365bd1b7/PG/api.json"
-    },
-    {
-      "name": "[资源425] 【GitHub-ls125781003/tbapi1/5d5d2a91908f530664e9ec923544f85b365bd1b7/WEX/api.json】",
-      "url": "https://raw.githubusercontent.com/ls125781003/tbapi1/5d5d2a91908f530664e9ec923544f85b365bd1b7/WEX/api.json"
-    },
-    {
-      "name": "[资源426] 【GitHub-qirenzhidao/tvbox18/86e1e39338ae41fcbceb9d0d3896a7618ced6cd6/adult.json】",
+      "name": "[资源412] 【GitHub-qirenzhidao/tvbox18/86e1e39338ae41fcbceb9d0d3896a7618ced6cd6/adult.json】",
       "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/86e1e39338ae41fcbceb9d0d3896a7618ced6cd6/adult.json"
     },
     {
-      "name": "[资源427] 【GitHub-alantang1977/pg/b83685eabaa4759357d23158856f5251adb58c58/all.json】",
+      "name": "[资源413] 【GitHub-alantang1977/pg/b83685eabaa4759357d23158856f5251adb58c58/all.json】",
       "url": "https://raw.githubusercontent.com/alantang1977/pg/b83685eabaa4759357d23158856f5251adb58c58/all.json"
     },
     {
-      "name": "[资源428] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/tvbox~38d268.json】",
+      "name": "[资源414] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/tvbox~38d268.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/tvbox~38d268.json"
     },
     {
-      "name": "[资源429] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/snapshot/2026-10-15/auto_79-88s__061025.json】",
+      "name": "[资源415] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/snapshot/2026-10-15/auto_79-88s__061025.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/snapshot/2026-10-15/auto_79-88s__061025.json"
     },
     {
-      "name": "[资源430] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/jsm~df8de9.json】",
+      "name": "[资源416] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/jsm~df8de9.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/jsm~df8de9.json"
     },
     {
-      "name": "[资源431] 【GitHub-laozheng520/jk/736f5e41d10ba5e3751e0d4710b9c80f7c810154/宜优精选.json】",
+      "name": "[资源417] 【GitHub-laozheng520/jk/736f5e41d10ba5e3751e0d4710b9c80f7c810154/宜优精选.json】",
       "url": "https://raw.githubusercontent.com/laozheng520/jk/736f5e41d10ba5e3751e0d4710b9c80f7c810154/宜优精选.json"
     },
     {
-      "name": "[资源432] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-09-30/15ad925aca-newwex.json】",
+      "name": "[资源418] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-09-30/15ad925aca-newwex.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-09-30/15ad925aca-newwex.json"
     },
     {
-      "name": "[资源433] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/918~e37130.json】",
+      "name": "[资源419] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/918~e37130.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/918~e37130.json"
     },
     {
-      "name": "[资源434] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/py~37b0e1.json】",
+      "name": "[资源420] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/py~37b0e1.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/py~37b0e1.json"
     },
     {
-      "name": "[资源435] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/l8~9a9ad6.json】",
+      "name": "[资源421] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/l8~9a9ad6.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/l8~9a9ad6.json"
     },
     {
-      "name": "[资源436] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-10-11/0516~f78796.json】",
+      "name": "[资源422] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-10-11/0516~f78796.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-10-11/0516~f78796.json"
     },
     {
-      "name": "[资源437] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/jsm~d15d65.json】",
+      "name": "[资源423] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/jsm~d15d65.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/jsm~d15d65.json"
     },
     {
-      "name": "[资源438] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-10-12/official.json】",
+      "name": "[资源424] 【GitHub-hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-10-12/official.json】",
       "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/377d0cca9edf90107c5dc610d06233776ecb8b88/raw/vod/history/2026-10-12/official.json"
+    },
+    {
+      "name": "[资源425] 【GitHub-ediart/tvbox/f4f24a764639d22c40f6c5b1c72b187032fdf9a9/T4.json】",
+      "url": "https://raw.githubusercontent.com/ediart/tvbox/f4f24a764639d22c40f6c5b1c72b187032fdf9a9/T4.json"
+    },
+    {
+      "name": "[资源426] 【GitHub-wnddwc/daiweichun/164cc8054903fd8e79c4ba32efac9e2c22dc0597/daiweichun.json】",
+      "url": "https://raw.githubusercontent.com/wnddwc/daiweichun/164cc8054903fd8e79c4ba32efac9e2c22dc0597/daiweichun.json"
+    },
+    {
+      "name": "[资源427] 【GitHub-KAN314go/23/086eed7e9132d9276853ff417d72062273ee1297/py.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/23/086eed7e9132d9276853ff417d72062273ee1297/py.json"
+    },
+    {
+      "name": "[资源428] 【GitHub-yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/备份/tvboxTW/本地【小虎斑线】/api.json】",
+      "url": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/备份/tvboxTW/本地【小虎斑线】/api.json"
+    },
+    {
+      "name": "[资源429] 【GitHub-yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/Jsm/jsm.json】",
+      "url": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/Jsm/jsm.json"
+    },
+    {
+      "name": "[资源430] 【GitHub-yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/Aries/jsm.json】",
+      "url": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/Aries/jsm.json"
+    },
+    {
+      "name": "[资源431] 【GitHub-yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/备份/drpys/jsm.json】",
+      "url": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/备份/drpys/jsm.json"
+    },
+    {
+      "name": "[资源432] 【GitHub-yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/备份/tvboxTW/本地【香雅情线】/api.json】",
+      "url": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/a8597c8acfb88e015d47cd970f9855f702560602/备份/tvboxTW/本地【香雅情线】/api.json"
+    },
+    {
+      "name": "[资源433] 【GitHub-KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/备份/tvboxTW/本地【小虎斑线】/api.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/备份/tvboxTW/本地【小虎斑线】/api.json"
+    },
+    {
+      "name": "[资源434] 【GitHub-KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/Jsm/jsm.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/Jsm/jsm.json"
+    },
+    {
+      "name": "[资源435] 【GitHub-KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/Aries/jsm.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/Aries/jsm.json"
+    },
+    {
+      "name": "[资源436] 【GitHub-KAN314go/j/8a4a53e7993753a63b75e4902887940fb9a20fba/cat/tjs/18_tv_config.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/j/8a4a53e7993753a63b75e4902887940fb9a20fba/cat/tjs/18_tv_config.json"
+    },
+    {
+      "name": "[资源437] 【GitHub-KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/备份/drpys/jsm.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/备份/drpys/jsm.json"
+    },
+    {
+      "name": "[资源438] 【GitHub-KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/备份/tvboxTW/本地【香雅情线】/api.json】",
+      "url": "https://raw.githubusercontent.com/KAN314go/yu2/664585bb7cb1d8d0b7779ef557f95279e229d146/备份/tvboxTW/本地【香雅情线】/api.json"
+    },
+    {
+      "name": "[资源439] 【GitHub-24090144d/tv/0fe40dfae7f23a9253038644537b41a627bcd3ae/xc.json】",
+      "url": "https://raw.githubusercontent.com/24090144d/tv/0fe40dfae7f23a9253038644537b41a627bcd3ae/xc.json"
+    },
+    {
+      "name": "[资源440] 【GitHub-yanghanhanyingshi/abcd/d81e8ee0c642e7d44f4f850a9ab77dbd8a1cee7b/tvbox/Web鱼壳海豚常规23.json】",
+      "url": "https://raw.githubusercontent.com/yanghanhanyingshi/abcd/d81e8ee0c642e7d44f4f850a9ab77dbd8a1cee7b/tvbox/Web鱼壳海豚常规23.json"
+    },
+    {
+      "name": "[资源441] 【GitHub-alantang1977/X/9ee7f16887dd21a82be52ce26839d074c9b86e4f/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/9ee7f16887dd21a82be52ce26839d074c9b86e4f/py.json"
+    },
+    {
+      "name": "[资源442] 【GitHub-alantang1977/X/05b1444761b0e098682098f5bd0cae837cdfc48d/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/05b1444761b0e098682098f5bd0cae837cdfc48d/py.json"
+    },
+    {
+      "name": "[资源443] 【GitHub-alantang1977/X/e7b24ccf28eef2014580e8c85757162cc06c5285/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/e7b24ccf28eef2014580e8c85757162cc06c5285/py.json"
+    },
+    {
+      "name": "[资源444] 【GitHub-alantang1977/X/4f263102ba66b9067149cca2a6c92019a236b494/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/4f263102ba66b9067149cca2a6c92019a236b494/py.json"
+    },
+    {
+      "name": "[资源445] 【GitHub-alantang1977/X/424c6c5af466c057eb53f29a965c7cae54a65770/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/424c6c5af466c057eb53f29a965c7cae54a65770/py.json"
+    },
+    {
+      "name": "[资源446] 【GitHub-jishitang/Tool/f09f66bcfec4f045b8be0155e61d81c387ba3e01/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/f09f66bcfec4f045b8be0155e61d81c387ba3e01/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源447] 【GitHub-alantang1977/X/d780e5f8e2aba5ad18636b3485ebfab76f2e9f1b/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/d780e5f8e2aba5ad18636b3485ebfab76f2e9f1b/py.json"
+    },
+    {
+      "name": "[资源448] 【GitHub-jishitang/Tool/5e41dc1836aaefc13ab83ff4d24046b090c063c3/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/5e41dc1836aaefc13ab83ff4d24046b090c063c3/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源449] 【GitHub-alantang1977/X/ba6191dc5f2aa6e4f079cea8214f9f51759e3029/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/ba6191dc5f2aa6e4f079cea8214f9f51759e3029/py.json"
+    },
+    {
+      "name": "[资源450] 【GitHub-jishitang/Tool/9fe13bbd6739f074efc631dd75a07f583f2d321c/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/9fe13bbd6739f074efc631dd75a07f583f2d321c/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源451] 【GitHub-jishitang/Tool/96da41fd04628f0bf485babd71e9aca7b306fd19/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/96da41fd04628f0bf485babd71e9aca7b306fd19/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源452] 【GitHub-alantang1977/X/046447ef3d40340ab022cbde8ce77ebf749ee318/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/046447ef3d40340ab022cbde8ce77ebf749ee318/py.json"
+    },
+    {
+      "name": "[资源453] 【GitHub-jishitang/Tool/1a80da5514a269c344b21a853d23b8630980464f/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/1a80da5514a269c344b21a853d23b8630980464f/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源454] 【GitHub-jishitang/Tool/2a0d598a87a3fd3276a88758add441c815b27d64/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/2a0d598a87a3fd3276a88758add441c815b27d64/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源455] 【GitHub-alantang1977/X/a938821903990fb71f5be5866817722182e3e625/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/a938821903990fb71f5be5866817722182e3e625/py.json"
+    },
+    {
+      "name": "[资源456] 【GitHub-jishitang/Tool/efecab08fd26b1460b4037e2354cf40917479e97/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/efecab08fd26b1460b4037e2354cf40917479e97/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源457] 【GitHub-alantang1977/X/a5abbcf34fd5302aec1502dc742590d7cd9959b7/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/a5abbcf34fd5302aec1502dc742590d7cd9959b7/py.json"
+    },
+    {
+      "name": "[资源458] 【GitHub-jishitang/Tool/c3bd53113eff03cc7bdccbb2413bb3b969131863/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/c3bd53113eff03cc7bdccbb2413bb3b969131863/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源459] 【GitHub-alantang1977/X/0fcf5ed44566a818330c42fbc3a781ed1da30029/py.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/X/0fcf5ed44566a818330c42fbc3a781ed1da30029/py.json"
+    },
+    {
+      "name": "[资源460] 【GitHub-jishitang/Tool/7916a681b1000d974f15e996bbce3f35c862f9f2/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/7916a681b1000d974f15e996bbce3f35c862f9f2/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源461] 【GitHub-jishitang/Tool/2077626e9e74a21418c86197414654a9b7858aa9/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/2077626e9e74a21418c86197414654a9b7858aa9/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源462] 【GitHub-jishitang/Tool/f4ca03356f2bbdb524ef775f8bf5cf5892cfee14/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/f4ca03356f2bbdb524ef775f8bf5cf5892cfee14/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源463] 【GitHub-jishitang/Tool/b3ad8b10bde5634479eec2e339f6e6ba756186d3/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/b3ad8b10bde5634479eec2e339f6e6ba756186d3/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源464] 【GitHub-jishitang/Tool/c7909f532322e64911218dd909bd5e2391346887/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/c7909f532322e64911218dd909bd5e2391346887/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源465] 【GitHub-jishitang/Tool/ac11e639f5a78f41953de3544fd52e3b700f709c/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/ac11e639f5a78f41953de3544fd52e3b700f709c/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源466] 【GitHub-jishitang/Tool/62ffc886c2feef96713cea535ff769f1f3ea875b/gat3/gat/xin(1).json】",
+      "url": "https://raw.githubusercontent.com/jishitang/Tool/62ffc886c2feef96713cea535ff769f1f3ea875b/gat3/gat/xin(1).json"
+    },
+    {
+      "name": "[资源467] 【GitHub-alantang1977/pg/96c7ae31ce07442bae70459f91ca0307616cac75/all.json】",
+      "url": "https://raw.githubusercontent.com/alantang1977/pg/96c7ae31ce07442bae70459f91ca0307616cac75/all.json"
+    },
+    {
+      "name": "[资源468] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/tvbox~38d268.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/tvbox~38d268.json"
+    },
+    {
+      "name": "[资源469] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/snapshot/2026-10-15/auto_79-88s__061025.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/snapshot/2026-10-15/auto_79-88s__061025.json"
+    },
+    {
+      "name": "[资源470] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/jsm~df8de9.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/jsm~df8de9.json"
+    },
+    {
+      "name": "[资源471] 【GitHub-laozheng520/jk/9c3ff02c8e7ba7f384e8d92c8c124598d779e81e/宜优精选.json】",
+      "url": "https://raw.githubusercontent.com/laozheng520/jk/9c3ff02c8e7ba7f384e8d92c8c124598d779e81e/宜优精选.json"
+    },
+    {
+      "name": "[资源472] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/history/2026-09-30/15ad925aca-newwex.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/history/2026-09-30/15ad925aca-newwex.json"
+    },
+    {
+      "name": "[资源473] 【GitHub-lubin776/0/edd464ac654b396da8782e92284e5c8bac40365c/tvbox/王二小.json】",
+      "url": "https://raw.githubusercontent.com/lubin776/0/edd464ac654b396da8782e92284e5c8bac40365c/tvbox/王二小.json"
+    },
+    {
+      "name": "[资源474] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/918~e37130.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/918~e37130.json"
+    },
+    {
+      "name": "[资源475] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/py~37b0e1.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/py~37b0e1.json"
+    },
+    {
+      "name": "[资源476] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/l8~9a9ad6.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/l8~9a9ad6.json"
+    },
+    {
+      "name": "[资源477] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/history/2026-10-11/0516~f78796.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/history/2026-10-11/0516~f78796.json"
+    },
+    {
+      "name": "[资源478] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/jsm~d15d65.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/jsm~d15d65.json"
+    },
+    {
+      "name": "[资源479] 【GitHub-hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/history/2026-10-12/official.json】",
+      "url": "https://raw.githubusercontent.com/hebijunge/tvbox-config/43ce7caf57577ba2dc6bd6a75966e7382b8361da/raw/vod/history/2026-10-12/official.json"
     }
   ]
 }
